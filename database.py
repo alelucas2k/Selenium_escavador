@@ -20,4 +20,6 @@ class Database:
 
     def fechar(self):
         self.conn.close()
+        self.conn = None
+        self.cursor = None
         Database._instance = None

@@ -37,6 +37,7 @@ class SearchProfessorHandler(Handler):
             time.sleep(5)
             print(f"Busca pelo professor {professor} realizada.")
             self.subject.notificar(professor, "encontrado")
+            context['subject'] = self.subject
             return super().handle(context)
         except Exception:
             print(f"Erro ao buscar professor {professor}")
