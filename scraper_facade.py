@@ -1,3 +1,11 @@
+"""
+Padrão utilizado: Facade.
+Explicação:
+Este módulo fornece uma interface simplificada para interagir com o Selenium WebDriver e com a cadeia de handlers,
+ocultando a complexidade das operações de scraping e tornando a utilização do sistema mais direta e intuitiva.
+"""
+
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager

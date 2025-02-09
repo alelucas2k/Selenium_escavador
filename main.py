@@ -1,55 +1,60 @@
+"""
+Padrão utilizado: Facade.
+Explicação:
+Este é o ponto de entrada da aplicação que orquestra as operações de inicialização,
+como a configuração do banco de dados e o disparo do fluxo de scraping.
+Ele simplifica a interação entre os diversos componentes do sistema, oferecendo uma interface única e coesa.
+"""
+
+
+import os
+from dotenv import load_dotenv
 from scraper_facade import ScraperFacade
 from database import Database
 
+# Carregar variáveis do .env
+load_dotenv()
 
 def main():
     try:
-        # Configuração inicial do banco de dados
         db = Database()
 
-        # Cria a tabela se não existir
+        # Criar tabela se não existir
         db.executar(
             "CREATE TABLE IF NOT EXISTS professores ("
             "id INTEGER PRIMARY KEY, "
             "nome TEXT UNIQUE, "
-            "status TEXT DEFAULT 'pendente'"
-            ")"
+            "status TEXT DEFAULT 'pendente', "
+            "resumo TEXT)"
         )
 
-        # Verifica se a coluna 'status' existe
+        # Verificar se a coluna 'status' existe
         colunas = db.buscar("PRAGMA table_info(professores)")
         status_existe = any(coluna[1] == 'status' for coluna in colunas)
+        resumo_existe = any(coluna[1] == 'resumo' for coluna in colunas)
 
+        if not resumo_existe:
+            db.executar("ALTER TABLE professores ADD COLUMN resumo TEXT")
         if not status_existe:
             db.executar("ALTER TABLE professores ADD COLUMN status TEXT DEFAULT 'pendente'")
-            print("Coluna 'status' adicionada ao banco de dados existente.")
 
-        # Lista de professores padrão
-        professores = [
-            "Victor André Pinho de Oliveira",
-            "Paulo Ribeiro Lins Junior",
-            "Katyusco Santos",
-            "Alexandre Sales Vasconcelos",
-            "Marcelo José Siqueira Coutinho de Almeida"
-        ]
+        # 🔹 Carregar professores do .env
+        professores = os.getenv("PROFESSORES_LIST", "").split(",")
 
-        # Insere professores no banco (se não existirem)
+        # Inserir professores no banco (se não existirem)
         for professor in professores:
-            try:
-                db.executar(
-                    "INSERT OR IGNORE INTO professores (nome) VALUES (?)",
-                    (professor,)
-                )
-            except Exception as e:
-                print(f"Erro ao inserir professor {professor}: {e}")
+            professor = professor.strip()  # Remover espaços extras
+            if professor:
+                try:
+                    db.executar("INSERT OR IGNORE INTO professores (nome) VALUES (?)", (professor,))
+                except Exception as e:
+                    print(f"Erro ao inserir professor {professor}: {e}")
 
-        # Cria o scraper
+        # Criar o scraper
         scraper = ScraperFacade()
 
-        # Processa professores pendentes
-        professores_pendentes = db.buscar(
-            "SELECT nome FROM professores WHERE status = 'pendente'"
-        )
+        # Processar professores pendentes
+        professores_pendentes = db.buscar("SELECT nome FROM professores WHERE status = 'pendente'")
 
         if not professores_pendentes:
             print("Nenhum professor pendente encontrado.")
@@ -64,12 +69,9 @@ def main():
             except Exception as e:
                 print(f"Erro durante scraping de {professor[0]}: {e}")
 
-    except sqlite3.Error as e:
-        print(f"Erro crítico no banco de dados: {e}")
     except Exception as e:
         print(f"Erro inesperado: {e}")
     finally:
-        # Garante o fechamento adequado dos recursos
         if 'scraper' in locals():
             scraper.fechar()
         if 'db' in locals():

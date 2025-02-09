@@ -1,3 +1,11 @@
+"""
+Padrão utilizado: Singleton.
+Explicação:
+Garante que exista apenas uma instância de conexão com o banco de dados durante a execução da aplicação,
+centralizando o gerenciamento do acesso aos dados e evitando conflitos ou múltiplas conexões desnecessárias.
+"""
+
+
 import sqlite3
 
 class Database:
