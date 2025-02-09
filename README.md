@@ -14,7 +14,7 @@ O sistema realiza as seguintes etapas:
 ## Funcionalidades
 
 - **Automação de Navegação:** Abre o site e realiza buscas por professores.
-- **Scraping Dinâmico:** Extrai currículos diretamente da página sem salvá-los em arquivos de texto.
+- **Scraping Dinâmico:** Extrai currículos diretamente da página e salva em arquivos de texto.
 - **Geração de Resumo Automatizada:** Processa o currículo bruto com a API Gemini para gerar um resumo.
 - **Armazenamento Centralizado:** Registra as informações e o status dos professores em um banco de dados SQLite.
 - **Arquitetura Modular:** Utiliza diversos padrões de projeto para manter o código organizado e de fácil manutenção.
