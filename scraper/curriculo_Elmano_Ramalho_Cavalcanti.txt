@@ -1,0 +1,426 @@
+Acadêmico
+FORMAÇÃO ACADÊMICA
+Doutorado em Ciência da Computação
+2009 - 2014
+Universidade Federal de Campina Grande
+Título: Aplicabilidade de Métricas de Mobilidade em Redes ad hoc Móveis
+, Ano de obtenção: 2014. Marco Aurélio Spohn. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Redes Ad Hoc Sem Fio; Modelos de Mobilidade; Métricas de Mobilidade; Protocolo de Roteamento.Grande área: Ciências Exatas e da Terra
+Mestrado em Ciência da Computação
+2007 - 2009
+Universidade Federal de Campina Grande
+Título: Avaliação de Modelos de Mobilidade em Redes Ad Hoc Sem Fio
+, Ano de Obtenção: 2009.Marco Aurélio Spohn.Bolsista do(a): Hewlett-Packard, HP, Brasil. Palavras-chave: Redes Ad Hoc Sem Fio; Modelos de Mobilidade; Simulação.Grande área: Ciências Exatas e da Terra
+Graduação em Ciência da Computação
+2002 - 2007
+Universidade Federal de Campina Grande
+PÓS-DOUTORADO
+2016 - 2017
+Pós-Doutorado. , Universidade Federal de Campina Grande, UFCG, Brasil. , Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+FORMAÇÃO COMPLEMENTAR
+2022 - 2022
+Create a Front-End App with React. (Carga horária: 20h). , Codecademy, CODECADEMY, Estados Unidos.
+2015 - 2016
+Capacitação Destino. (Carga horária: 120h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2014 - 2015
+Adoração. (Carga horária: 80h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2014 - 2014
+Power Searching with Google. (Carga horária: 8h). , Google Inc., Google, Estados Unidos.
+2008 - 2008
+Gêneros Bíblicos e Produção Textual. (Carga horária: 60h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2008 - 2008
+Mente de Cristo. (Carga horária: 60h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2007 - 2007
+Personalidades Restauradas. (Carga horária: 60h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2007 - 2007
+Personalidades Restauradas II. (Carga horária: 60h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2006 - 2007
+TESE. (Carga horária: 90h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+2005 - 2005
+IPGN: Iniciando Um Pequeno Grande Negócio. (Carga horária: 30h). , Serviço Brasileiro de Apoio Às Micro e Pequenas Empresas, SEBRAE, Brasil.
+2005 - 2005
+Saber Empreender. (Carga horária: 27h). , Serviço Brasileiro de Apoio Às Micro e Pequenas Empresas, SEBRAE, Brasil.
+2004 - 2005
+Escola de Líderes. (Carga horária: 90h). , Igreja Nacional do Senhor Jesus Cristo, INSEJEC, Brasil.
+IDIOMAS
+Inglês
+Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem.
+Espanhol
+Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Pouco.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+ÁREAS DE ATUAÇÃO
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Redes de Computadores.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Mineração de Dados.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação/Especialidade: Modelos Analíticos e de Simulação.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Informática na Educação.
+ORGANIZAÇÃO DE EVENTOS
+ELMANO RAMALHO CAVALCANTI . IV Olimpíada Garanhuense de Informática. 2019. .
+CAVALCANTI, E. R. . II Olimpíada Garanhuense de Informática. 2016. .
+CAVALCANTI, E.R. ; SARAIVA, E. C. ; DANTAS, F. C. C. ; SANTOS, P. H. C. ; SILVA, I. F. A. ; SILVA, H. D. A. . Semana Nacional de Ciência e Tecnologia. 2016. (Outro).
+CAVALCANTI, E.R. ; CABRAL, F. B. . I Olimpíada Garanhuense de Informática. 2015. .
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . VI ENCAD Encontro de Administração de Campina Grande. 2014. (Outro).
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . III EXPO PEP Exposição de Trabalhos de Pesquisa, de Extensão e de Grupos PET. 2013. (Exposição).
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . V ENCAD Encontro de Administração de Campina Grande. 2013. (Outro).
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . IV ENCAD Encontro de Administração de Campina Grande. 2012. (Outro).
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . II EXPO PEP Exposição de Trabalhos de Pesquisa, de Extensão e de Grupos PET. 2012. (Exposição).
+CAVALCANTI, E. P. ; CAVALCANTI, E. R. . III ENCAD Encontro de Administração da UFCG. 2011. (Outro).
+PIRES, C. E. S. ; CAMPOS, L. M. R. S. ; CAVALCANTI, Elmano Ramalho ; Odilon ; Elloá Guedes ; Rafael de Brito ; Carla Araújo ; Ricardo Araújo ; Izabel Nunes . Workshop de Teses e Dissertações da COPIN. 2010. (Exposição).
+CAVALCANTI, E. P. ; ELMANO RAMALHO CAVALCANTI ; SILVA, W. R. . II Encontro de Administração da UFCG. 2010. (Outro).
+CAVALCANTI, E. P. ; ELMANO RAMALHO CAVALCANTI . I Encontro de Administração da UFCG. 2009. (Outro).
+PARTICIPAÇÃO EM EVENTOS
+Congresso Norte-Nordeste de Pesquisa e Inovação. 2018. (Congresso).
+XXIX Simpósio Brasileiro de Informática na Educação (Brazilian Symposium on Computers in Education).Avaliação Experimental do Robomind no Ensino de Programação com Estudantes do Curso Técnico em Informática Integrado ao Ensino Médio. 2018. (Simpósio).
+Congresso Nacional de Pesquisa e Ensino em Ciências. USO DO PARADIGMA DE SISTEMAS BASEADOS EM AGENTES NA MODELAGEM E SIMULAÇÃO DE FENÔMENOS ELETROMAGNÉTICOS. 2016. (Congresso).
+Congresso Regional de Tecnologias na Educação. Modelagem e Simulação de Fenômenos Eletromagnéticos por meio de Sistemas Multiagentes. 2016. (Congresso).
+Semana Nacional de Ciência e Tecnologia.O Novo Protocolo HTTP 2.0: Uma Revolução da Internet?. 2015. (Outra).
+III Fórum de Sustentabilidade.Smart Sustainability: Aplicações das Redes ad hoc Móveis (MANETs). 2014. (Outra).
+IX Connepi. Membro do TPC. 2014. (Congresso).
+The Eighth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM). Membro do TPC. 2014. (Congresso).
+International Symposium on Mobility Management and Wireless Accessess ( (MobiWac).On the Applicability of Mobility Metrics for User Movement Pattern Recognition in MANETs. 2013. (Simpósio).
+The Seventh International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM). Membro do TPC. 2013. (Congresso).
+XXXI Simpósio Brasileiro de Telecomunicações.Aplicando Métricas De Mobilidade Na Classificação De Rastros De Movimento Em MANETs. 2013. (Simpósio).
+Simpósio Brasileiro de Telecomunicações.Validação Realística de Métricas Espaço-Temporais para Redes ad hoc Sem Fio. 2012. (Simpósio).
+The Sixth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM). Membro do TPC. 2012. (Congresso).
+International Symposium on Mobility Management and Wireless Access.Degree of Node Proximity: a Spatial Mobility Metric for MANETs. 2011. (Simpósio).
+The Fifth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM). Membro do TPC. 2011. (Congresso).
+Workshop de Software Livre. Uma Solução Baseada em Software Livre para Detecção e Avaliação de Cola em Provas Escolares. 2011. (Congresso).
+The Fourth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM'10). Improved Spatial and Temporal Mobility Metrics for Mobile Ad Hoc Networks. 2010. (Congresso).
+IX Semana do Administrador. 2006. (Congresso).
+Meeting de Tecnologia. 2006. (Encontro).
+.Incubadora de Empresas um Instrumento de Desenvolvimento Local, Integrador e Sustentável. 2005. (Seminário).
+.Inteligência Competitiva e Gestão do Conhecimento. 2005. (Oficina).
+.Uffizi PB - Oficinas para Negócios Inovadores de Empresas de TIC. 2005. (Oficina).
+Curso: Saber Empreender. 2005. (Oficina).
+.I Fórum OurGrid sobre grids computacionais. 2004. (Outra).
+PARTICIPAÇÃO EM BANCAS
+Aluno: José Anderson Rodrigues de Souza
+CAVALCANTI, Elmano Ramalho; GOMES, R. C. M.; COSTA, N. F. B. F.; FECHINE, J. M.; GURJAO, E. C.. A Inﬂuência dos Parâmetros de Simulação em Protocolos de Roteamento na Comunicação Veicular. 2018. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Aluno: JOHNATHAN DEZAN VAGO
+CAMPELO, D. R. S.;CAVALCANTI, E. R.; DIAS, K. L.. UMA ESTRATÉGIA PARA ESTABELECER FLUXOS EM REDES SDN/OPENFLOW COM REDUÇÃO DE CARGA NO CONTROLADOR. 2017. Dissertação (Mestrado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+Aluno: Rodrigo Ferreira da Silva
+CAVALCANTI, Elmano Ramalho; SANTANA, S. T.; CABRAL, L. S.. Comparação de Algoritmos para Detecção de Erros na Transmissão. 2021. Monografia (Aperfeiçoamento/Especialização em Especialização em Desenvolvimento, Inovação e Tecnologias Emergentes) - Instituto Federal de Pernambuco - Campus Jaboatão dos Guararapes.
+Aluno: Elton Kleyson do Nascimento Martins
+ALMEIDA, F. F. M.;CAVALCANTI, Elmano Ramalho; SOUSA, A. G.. Implantação, Análise, Avaliação e Tendências do Governo Eletrônico (E-Gov): Um Estudo de Caso na Prefeitura Municipal de Campina Grande ? Paraíba. 2012. Monografia (Aperfeiçoamento/Especialização em Gestão da Organização Pública - EAD) - Universidade Estadual da Paraíba.
+Aluno: Ayrton Dantas de Medeiros
+ELMANO RAMALHO CAVALCANTI; VASCONCELOS, A. S.. CONSTRUÇÃO DE PROTOTIPO PARA AUTOMATIZAR EMPRESTIMO E DEVOLUÇÃO DE LIVROS DE BIBLIOTECA. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: Wallace Limeira de Souza Barbosa
+CAVALCANTI, E. R.; MAIA, D. C. M.; COSTA, A. F. B. F.. ANÁLISE DE SISTEMAS DE MONITORAMENTO DE ATIVOS DE REDE. 2022. Trabalho de Conclusão de Curso (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: JOSÉ WERLANDIÊ AURELIANO LACERDA
+CAVALCANTI, E. R.; SANTOS, K. F.; MAIA, D. C. M.. Tokens Não Fungíveis (NFT): características técnicas e oportunidades para profissionais de TI. 2022. Trabalho de Conclusão de Curso (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: Jonathan Barbosa Farias
+CAVALCANTI, E. R.; BEZERRA, P. C.; CASTRO, E. R. S.. AUTOMATIZANDO O BUILD E DEPLOY DE SERVIÇOS NA NUVEM UTILIZANDO PRÁTICAS DEVOPS. 2022. Trabalho de Conclusão de Curso (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: ELAYNE REGINA LIMA SILVA
+CAVALCANTI, E. R.; PASSOS, I. D. C. F.; ALMEIDA, M. J. S. C.. ESTUDO COMPARATIVO DE ALGORITMOS DE MINERAÇÃO DE TEXTO PARA CLASSIFICAÇÃO AUTOMÁTICA DE QUESTÕES DE CONCURSOS. 2022. Trabalho de Conclusão de Curso (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: Wesley Wevertton de Azevedo Palmeira
+ALMEIDA, M. J. S. C.;CAVALCANTI, E. R.; COSTA, I. B.. Um Estudo comparativo de algoritmos de Aprendizado de Máquina na detecção de discurso de ódio na Rede Social Twitter. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: José Aurélio Epaminondas de Carvalho
+ALMEIDA, M. J. S. C.;CAVALCANTI, E. R.; COSTA, I. B.. Análise de Engajamento de Usuários em Publicações sobre Política Eleitoral Contendo Discurso de Ódio na Rede Social Twitter. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+Aluno: BRENO LACERDA DE ALUSTAU PAIVA
+CAVALCANTI, Elmano Ramalho; CASTRO, E. R. S.; PONTES, R.F.. Avaliação do Procolo AOLSR em Cenários de Mobilidade Veicular. 2015. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA.
+Aluno: Jackson Delgado Maciel
+PONTES, R.F.;CAVALCANTI, Elmano Ramalho; VASCONCELOS, L. L.. Análise de Ferramentas de Gerenciamento de Redes para Implantação na Empresa Ferro Ferragens. 2012. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA.
+Aluno: Klerison Renê Mendes Dutra
+PONTES, R.F.;CAVALCANTI, Elmano Ramalho; NASCIMENTO NETO, J. A.. Seguraça da Informação: Estudo de Caso em um Provedor de Internet via Rádio. 2011. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA.
+Aluno: Charles da Silva Brito
+CARTAXO, E. G.; VASCONCELOS, L. L.;CAVALCANTI, Elmano Ramalho. A Segurança da Informação Fïsica e do Ambiente Utilizando a Norma 27002 no Tribunal de Justiça da Paraíba. 2011. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA.
+Aluno: Jeiziel Alves Siqueira Sousa
+CARTAXO, E. G.; VASCONCELOS, L. L.;CAVALCANTI, Elmano Ramalho. Gestão da Segurança da Informação e a Norma ABNT NBR ISO/IEC 27002: Uma Visão de Negócio. 2011. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA.
+Aluno: DANIEL GOMES FEITOSA
+OLIVEIRA, R. S.;CAVALCANTI, E. R.; SILVA, T. M.. Estudo e Elaboração de um Questionário Estratégico para Planejamento de Testes. 2009. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdades Integradas de Patos.
+Aluno: SAMUEL LIMA DO NASCIMENTO
+OLIVEIRA, R. S.;CAVALCANTI, E. R.; SILVA, T. M.. Aplicação de Metodologia de Mineração de Dados. 2008. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdades Integradas de Patos.
+CAVALCANTI, Elmano Ramalho; NASCIMENTO, D. A.; SOUZA, W. M.. PROCESSO SELETIVO SIMPLIFICADO PARA PROFESSOR SUBSTITUTO. 2018. Instituto Federal de Pernambuco.
+CAVALCANTI, Elmano R.; SOUSA, M. L.. Processo Seletivo de Professor do curso de Sistemas de Informação. 2012. CENTRO UNIVERSITARIO-UNIFACISA.
+COMISSÃO JULGADORA DAS BANCAS
+Gustavo Henrique Matos Bezerra Motta
+Spohn, M. A.; Fechine, J. M.;MOTTA, G. H. M. B.. Avaliação de modelos de mobilidade em redes ad hoc sem fio. 2009. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Gustavo Henrique Matos Bezerra Motta
+Spohn, M. A.; Moraes, R. M.;MOTTA, G. H. M. B.; Gomes, R. C. M.; Massoni, T. L.. Aplicabilidade de Métricas de Mobilidade Em Redes Ad Hoc Móveis. 2014. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Gustavo Henrique Matos Bezerra Motta
+Spohn, M. A.; Massoni, T. L.; Gomes, R. C. M.;MOTTA, G. H. M. B.; Moraes, R. M.. Aplicabilidade de métricas de mobilidade em protocolos e serviços para redes ad hoc móveis. 2011. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.
+Renato Mariz de Moraes
+M. A. Spohn; MASSONI, T. L.; GOMES, R. C. M.; MOTTA, G. H. M. B.;R. M. de Moraes. Aplicabilidade de Métricas de Mobilidade em Redes Ad Hoc Móveis. 2014. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Renato Mariz de Moraes
+M. A. Spohn; MASSONI, T. L.; GOMES, R. C. M.; MOTTA, G. H. M. B.;R. M. de Moraes. Aplicabilidade de Métricas de Mobilidade em Protocolos e Serviços para Redes Ad Hoc Móveis. 2011. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.
+Tiago Lima Massoni
+SPOHN, M. A.; MARIZ, R. M.; MOTTA, G. H.; GOMES, R. C. M.;MASSONI, T. L.. Aplicabilidade de Métricas de Mobilidade em Protocolos e Serviços para Redes Ad Hoc Móveis. 2011. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.
+Joseana Macêdo Fechine Régis de Araújo
+SPOHN, M. A.;FECHINE, J. M.; MOTTA, G. H. M.. Uma Metodologia de Avaliação de Modelos de Mobilidade em Redes Ad Hoc Sem Fio. 2009. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Reinaldo Cézar de Morais Gomes
+AURELIO, M.; MORAES, R. M.; MOTTA, G. H. M. B.;GOMES, Reinaldo Cézar de Morais; MASSONI, T. L.. Aplicabilidade de Métricas de Mobilidade em Protocolos e Serviços para Redes Ad Hoc Móveis. 2014. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Reinaldo Cézar de Morais Gomes
+AURELIO, M.;GOMES, Reinaldo Cézar de Morais; MASSONI, T. L.; MOTTA, G. H. M. B.; MORAES, R. M.. Aplicabilidade de Métricas de Mobilidade em Protocolos e Serviços para Redes Ad Hoc Móveis. 2011. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.
+ORIENTOU
+Isabella Tito de Oliveira Silva
+Avaliação da Segurança de Acesso à Nota Fiscal de Consumidor Eletrônica (NFC-e); Início: 2024; Iniciação científica (Graduando em Engenharia de Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; (Orientador);
+Evandro José do Nascimento
+Tecnologias Web mais Utilizadas no Desenvolvimento de Websites do Setor Público; 2021; Monografia; (Aperfeiçoamento/Especialização em Especialização em Desenvolvimento, Inovação e Tecnologias Emergentes) - Instituto Federal de Pernambuco - Campus Jaboatão dos Guararapes; Orientador: Elmano Ramalho Cavalcanti;
+ÁQUILA SAMUEL AZEVEDO DIAS
+Modelo preditivo ideal para indicador de qualidade no ramo de transporte de aplicativo; 2023; Trabalho de Conclusão de Curso; (Graduação em Engenharia de Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+Jonas Henriques Nascimento; Jorge Victor Leite Damasceno
+QuestõesPro: Uma Plataforma de Elaboração e Correção de Avaliações; 2023; Trabalho de Conclusão de Curso; (Graduação em Engenharia de Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+RODRIGO CUNHA FRANÇA
+ESTRATÉGIAS E BENEFÍCIOS NA MIGRAÇÃO DO SOFTWARE QUESTÕES PROWEB PARA O AMBIENTE MOBILE: UMA ANÁLISE FOCADA NAS VANTAGENS PARA PROFESSORES E ALUNOS; 2023; Trabalho de Conclusão de Curso; (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+Jonathan Barbosa Farias
+Automatizando o Build e Deploy de Serviços na Nuvem Utilizando Práticas DevOps; 2022; Trabalho de Conclusão de Curso; (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+Wallace Limeira de Souza Barbosa
+Análise de Sistemas de Monitoramento de Ativos de Rede; 2022; Trabalho de Conclusão de Curso; (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+JOSÉ WERLANDIÊ AURELIANO LACERDA
+Tokens Não Fungíveis (NFT): característicastécnicas e oportunidades para profissionais de TI; 2022; Trabalho de Conclusão de Curso; (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+ELAYNE REGINA LIMA SILVA
+Estudo Comparativo de Algoritmos de Mineração de Texto para Classificação Automática de Questões de Concursos; 2022; Trabalho de Conclusão de Curso; (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+Breno Lacerda de A
+Paiva; Aperfeiçoando o Protocolo OLSR com Uso de Métricas de Mobilidade; 2014; Trabalho de Conclusão de Curso; (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA; Orientador: Elmano Ramalho Cavalcanti;
+Priscilla Martins Araújo Lima
+Aplicação de Mineração de Textos na Detecção e Avaliação de Plágio em Exercícios Acadêmicos; 2012; Trabalho de Conclusão de Curso; (Graduação em BACHARELADO EM SISTEMAS DE INFORMAÇÃO) - Instituto de Educação Superior da Paraíba; Orientador: Elmano Ramalho Cavalcanti;
+Tércio Leal Mendes
+USO DE VIRTUALIZAÇÃO COMO FERRAMENTA DE AUXÍLIO AO ENSINO; 2011; Trabalho de Conclusão de Curso; (Graduação em Sistemas de Informação) - CENTRO UNIVERSITARIO-UNIFACISA; Orientador: Elmano Ramalho Cavalcanti;
+Ricelly Risoní Rhênya Resende
+POLÍTICA DE SEGURANÇA DA INFORMAÇÃO VOLTADA PARA O CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO DAS FACULDADES INTEGRADAS DE PATOS ? FIP; 2009; Trabalho de Conclusão de Curso; (Graduação em Sistemas de Informação) - Faculdades Integradas de Patos; Orientador: Elmano Ramalho Cavalcanti;
+Lucas Dantas Gueiros
+Desenvolvimento e Análise de Modelos de Simulação de Fenômenos Eletromagnéticos por meio da Ferramenta NetLogo; 2016; Iniciação Científica; (Graduando em Informática) - Instituto Federal de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico; Orientador: Elmano Ramalho Cavalcanti;
+JULLE ERMESON REZENDE COSTA
+EVOLUÇÃO HISTÓRICA DOS COMPUTADORES; 2023; Orientação de outra natureza; (Manutenção e Suporte em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Elmano Ramalho Cavalcanti;
+Daniel Victor Siqueira da Silva
+CRAS: Sistemas de Gerenciamento de Famílias; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Éder Leonardo Monteiro Ferreira
+CRAS: Sistemas de Gerenciamento de Famílias; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Eunice Vieira Miguel
+CRAS: Sistemas de Gerenciamento de Famílias; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Fábio Douglas Valença Lopes
+CRAS: Sistemas de Gerenciamento de Famílias; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Naira Lúcia Raimundo Torres
+CRAS: Sistemas de Gerenciamento de Famílias; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Aluízio Henrique da Silva Filho
+SGA: Sistema de Gerenciamento Acadêmico; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Lucas Felipe Prohmann Tschoeke
+SGA: Sistema de Gerenciamento Acadêmico; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+Jorge Veloso dos Santos
+SGA: Sistema de Gerenciamento Acadêmico; 2013; Orientação de outra natureza - Instituto Federal de Pernambuco; Orientador: Elmano Ramalho Cavalcanti;
+FOI ORIENTADO POR
+Marco Aurélio Spohn
+Avaliação de Modelos de Mobilidade em Redes ad hoc Sem Fio; 2009; Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande,; Orientador: Marco Aurélio Spohn;
+Marco Aurélio Spohn
+Aplicabilidade de Métricas de Mobilidade em Redes ad hoc Móveis; 2014; Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior; Orientador: Marco Aurélio Spohn;
+PRODUÇÕES BIBLIOGRÁFICAS
+CAVALCANTI, E. R. ; SOUZA, J. A. R. ; SPOHN, M. A. ; GOMES, R. C. M. ; COSTA, N. F. B. F. . VANETs' research over the past decade. ACM SIGCOMM Computer Communication Review , v. 48, p. 31-39, 2018.
+CAVALCANTI, E.R. ; SPOHN, M. A. . On the Interactions between Mobility Models and Metrics in Mobile ad hoc Networks. INTERNATIONAL JOURNAL OF NETWORKS AND COMMUNICATIONS , v. 3, p. 63-80, 2013.
+CAVALCANTI, Elmano Ramalho ; Spohn, Marco Aurélio . On Improving Temporal and Spatial Mobility Metrics for Wireless ad hoc Networks. Information Sciences , v. 188, p. 182-197, 2012.
+CAVALCANTI, Elmano Ramalho ; PIRES, C. E. S. ; CAVALCANTI, E. P. ; PIRES, V. M.E. R. . Detection and Evaluation of Cheating on College Exams using Supervised Classification. INFORMATICS IN EDUCATION , v. 11, p. 169-190, 2012.
+CAVALCANTI, Elmano Ramalho ; Cavalcanti, Elmano Pontes ; Pires, Carlos Eduardo ; Costa, Rodrigo Alves ; Cavalcanti, Caroline Ramalho . Detecção e Avaliação de Cola em Provas Escolares Utilizando Mineração de Texto: um Estudo de Caso. Revista Brasileira de Informação na Educação , v. 19, p. 56-69, 2011.
+CAVALCANTI, E. P. ; CAVALCANTI, E. R. . Um olhar sobre a globalização considerando as desigualdades regionais do Brasil. Cadernos Gestão Social , v. 2, p. 63-86, 2009.
+CAVALCANTI, E.R. ; SPOHN, M. A. . Métricas de Mobilidade em Redes ad hoc Móveis. In: Airam Sausen; Paulo Sausen; Sandro Sawicki. (Org.). Pesquisas Aplicadas em Modelagem Matemática. 1ed.Ijuí: Editora Unijuí, 2015, v. 4, p. 11-59.
+SILVA, LEONARDO SOARES ; CAVALCANTI, Elmano Ramalho . O Uso do Robomind no Processo de Aprendizagem de Programação: Uma Revisão Sistemática da Literatura. In: Simpósio Brasileiro de Informática na Educação, 2020, Brasil. Anais do XXXI Simpósio Brasileiro de Informática na Educação (SBIE 2020). v. 31. p. 1793-1802.
+SILVA, LEONARDO SOARES E ; CAVALCANTI, Elmano Ramalho . Avaliação Experimental do Robomind no Ensino de Programação com Estudantes do Curso Técnico em Informática Integrado ao Ensino Médio. In: XXIX Simpósio Brasileiro de Informática na Educação (Brazilian Symposium on Computers in Education), 2018, Fortaleza. Porto Alegre ? RS: Sociedade Brasileira de Computação, 2018. p. 288-297.
+GUEIROS, L. D. ; CAVALCANTI, E. R. ; NASCIMENTO, R. L. P. . Modelagem e Simulação de Fenômenos Eletromagnéticos por meio de Sistemas Multiagentes. In: Congresso de Iniciação Científica do IFPE, 2016, Porto Alegre. Anais do XI Congresso de Iniciação Científica do IFPE, 2016. p. 175-178.
+CAVALCANTI, Elmano Ramalho ; SPOHN, MARCO AURELIO . Enhancing OLSR protocol performance through improved detection of Spatial Dependence. In: 2014 IEEE Symposium on Computers and Communication (ISCC), 2014, Funchal. 2014 IEEE Symposium on Computers and Communications (ISCC). p. 1-6.
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Aplicando Métricas De Mobilidade Na Classificação De Rastros De Movimento Em MANETs. In: XXXI Simpósio Brasileiro de Telecomunicações, 2013, Fortaleza. Anais do XXXI Simpósio Brasileiro de Telecomunicações (SBrT2013), 2013.
+CAVALCANTI, Elmano R. ; SPOHN, MARCO A. . On the applicability of mobility metrics for user movement pattern recognition in MANETs. In: the 11th ACM international symposium, 2013, Barcelona. Proceedings of the 11th ACM international symposium on Mobility management and wireless access - MobiWac '13. New York: ACM Press. p. 123-130.
+Costa, Rodrigo Alves ; de Queiroz, Ruy J.G.B. ; CAVALCANTI, Elmano Ramalho . A Proposal to Prevent Click-Fraud Using Clickable CAPTCHAs, 2012. p. 62-67.
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Validação Realística de Métricas Espaço-Temporais para Redes ad hoc Sem Fio. In: Simpósio Brasileiro de Telecomunicações, 2012, Brasília. Anais do XXX Simpósio Brasileiro de Telecomunicações - SBrT'12, 2012.
+CAVALCANTI, Elmano Ramalho ; Spohn, Marco Aurélio . On realistic evaluation of recent spatial and temporal mobility metrics for mobile ad hoc networks. In: the 10th ACM international symposium, 2012, Paphos. Proceedings of the 10th ACM international symposium on Mobility management and wireless access - MobiWac '12. New York: ACM Press. p. 107-114.
+LACERDA, R. P. ; CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . On the Waves of Viral Marketing. In: Academy of Marketing Conference, 2011, Liverpool. Academy of Marketing Conference: Marketing Fields Forever, 2011.
+CAVALCANTI, Elmano R. ; PIRES, C. E. S. . Uma Solução Baseada em Software Livre para Detecção e Avaliação de Cola em Provas Escolares. In: Workshop de Software Livre, 2011, Porto Alegre. Proceedings of the 12th WSL, 2011.
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Degree of Node Proximity: a Spatial Mobility Metric for MANETs. In: MobiWac, 2011, Miami Beach. Proceedings of the Ninth ACM International Symposium on Mobility Management and Wireless Access (MobiWac 2011), 2011. p. 61-68.
+ELMANO RAMALHO CAVALCANTI ; SPOHN, MARCO AURELIO . Predicting mobility metrics through regression analysis for random, group, and grid-based mobility models in MANETs. In: 2010 IEEE Symposium on Computers and Communications (ISCC), 2010, Riccione. The IEEE symposium on Computers and Communications. p. 443-448.
+CAVALCANTI, E. R. ; SPOHN, M. A. . Improved Spatial and Temporal Mobility Metrics for Mobile Ad Hoc Networks. In: The Fourth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, (UBICOMM), 2010, Florence, Itália. The Fourth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM), 2010. p. 189-195.
+CAVALCANTI, Elmano Ramalho ; Spohn, Marco Aurélio . Estimating the Impact of Mobility Models' Parameters on Mobility Metrics in MANETs. In: 2009 Eighth IEEE International Symposium on Network Computing and Applications (NCA), 2009, Cambridge. 2009 Eighth IEEE International Symposium on Network Computing and Applications. p. 227-233.
+CAVALCANTI, E. P. ; CAVALCANTI, E. R. . Gap de Inteligência na Perspectiva dos Negócios. In: XXIX Encontro da Associação Nacional de Pós-Graduação e Pesquisa em Administração, 2005, Brasília. XXIX ENANPAD, 2005.
+CAVALCANTI, E. P. ; CAVALCANTI, E. R. . Gap Inteligência Empresarial no Brasil. In: Asamblea del Consejo Latinoamericano de Escuelas de Administracion - CLADEA, 2005, Santiago. Congresso Internacional CLADEA, 2005.
+CAVALCANTI, E. P. ; CAVALCANTI, E. R. . Gap de Inteligência Empresarial no Brasil. In: International Conference of the Iberoamerican Academy of Management, 2005, Lisboa. 4 th International Conference, 2005.
+SILVA, LEONARDO SOARES E ; CAVALCANTI, Elmano Ramalho . Avaliação do Estado de Fluxo e do Aprendizado em Atividades Desplugadas no Ensino do Pensamento Computacional com Estudantes do Ensino Médio. In: XXIX Simpósio Brasileiro de Informática na Educação (Brazilian Symposium on Computers in Education), 2018, Fortaleza. Porto Alegre ? RS: Sociedade Brasileira de Computação, 2018. p. 1746-1750.
+GUEIROS, L. D. ; CAVALCANTI, E.R. ; NASCIMENTO, R. L. P. . Modelagem e Simulação de Fenômenos Eletromagnéticos por meio de Sistemas Multiagentes. In: Congresso Regional de Tecnologias na Educação, 2016, Natal. Anais do Congresso Regional de Tecnologias na Educação, 2016. v. 1. p. 490-496.
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho ; POLICARPO, M. C. . Contribuições para a Escolha Profissional. In: 6º Congresso Brasileiro de Extensão Universitária, 2014, Belém. Diálogos da Extensão: saberes tradicionais e inovação científica, 2014.
+CAVALCANTI, E. P. ; CAVALCANTI, Elmano Ramalho . O Atendimento das Necessidades de Informações para o Marketing nas Organizações. In: 64ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC, 2012, São Luis, MA. 64ª Reunião da SBPC, 2012.
+CAVALCANTI, E. R. ; JACKSON, J. S. . Aplicando classificação não-supervisionada para detecção de cola em provas escolares. In: Workshop Franco-Brasileiro sobre Mineração de Dados, 2009, Recife, Brasil. Workshop Franco-Brasileiro sobre Mineração de Dados, 2009.
+BARBOSA, S. H. R. ; CAVALCANTI, E.R. ; DIAS JUNIOR, F. D. ; VASCONCELOS, C. R. C. ; CAVALCANTI, E. P. . A utilização do mix de comunicação de Marketing no Bar do Cuscuz. In: SBPC, 2013, Recife. 65ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência. Ciência para o novo Brasil, 2013.
+SOUZA, J. A. R. ; CAVALCANTI, E. R. ; BEZERRA, T. S. ; GOMES, R. C. M. . VANETs' research overview updated: past, present and future. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , 2025.
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Aplicando Métricas De Mobilidade Na Classificação De Rastros De Movimento Em MANETs. 2013. (Apresentação de Trabalho/Simpósio).
+CAVALCANTI, Elmano Ramalho . Redes ad hoc Veiculares. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+CAVALCANTI, Elmano Ramalho . Uso da Robótica no Ensino de Programação. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . On the applicability of mobility metrics for user movement pattern recognition in MANETs. 2013. (Apresentação de Trabalho/Simpósio).
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Validação Realística de Métricas Espaço-Temporais para Redes ad hoc Sem Fio. 2012. (Apresentação de Trabalho/Simpósio).
+CAVALCANTI, Elmano Ramalho ; PIRES, C. E. S. . Uma Solução Baseada em Software Livre para Detecção e Avaliação de Cola em Provas Escolares. 2011. (Apresentação de Trabalho/Conferência ou palestra).
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Degree of Node Proximity: a Spatial Mobility Metric for MANETs. 2011. (Apresentação de Trabalho/Simpósio).
+CAVALCANTI, Elmano Ramalho ; SPOHN, M. A. . Improved Spatial and Temporal Mobility Metrics for Mobile Ad Hoc Networks. 2010. (Apresentação de Trabalho/Conferência ou palestra).
+CAVALCANTI, Elmano Ramalho . Avaliação de Modelos de Mobilidade em Redes ad hoc Sem Fio 2009 (Dissertação de Mestrado).
+CAVALCANTI, Elmano Ramalho . Um Chamado na Universidade 2007 (Monografia).
+OUTRAS PRODUÇÕES
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 1 (CONVENIO 853315/2017). 2021.
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 2 (CONVENIO 853315/2017). 2021.
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 3 (CONVENIO 853315/2017). 2021.
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 4 (CONVENIO 853315/2017). 2021.
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 6 (CONVENIO 853315/2017). 2021.
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 7 (CONVENIO 853315/2017). 2021.
+ELMANO RAMALHO CAVALCANTI . Avaliação de Contestação 5 (CONVENIO 853315/2017). 2021.
+CAVALCANTI, Elmano Ramalho . Veja como se proteger de crimes pela Internet. 2013. (Programa de rádio ou TV/Entrevista).
+CAVALCANTI, E. R. . Semana Nacional de Ciência e Tecnologia. 2016; Tema: Divulgação e Popularização da Ciência e Tecnologia.. (Site).
+CAVALCANTI, E. R. ; CABRAL, F. B. ; SILVA, M. S. ; WANDERLEY, E. G. . Olimpíada Garanhuense de Informática. 2015; Tema: Olimpíada de programação. (Site).
+CAVALCANTI, E. R. . Aprendendo a Construir Websites Gratuitos Usando o Google Sites. 2016. (Curso de curta duração ministrado/Extensão).
+CAVALCANTI, E. R. . Avaliador ad hoc. 2016. (NAT).
+CAVALCANTI, E.R. ; BARROS, T. C. . Curso de Xadrez Básico. 2014. (Curso de curta duração ministrado/Extensão).
+CAVALCANTI, E. R. . Google Power Searching: tornando-se um grande pesquisador na Internet. 2014. (Curso de curta duração ministrado/Extensão).
+CAVALCANTI, E. R. ; SPOHN, M. A. . Avaliação de Modelos de Mobilidade em Redes Ad Hoc Sem Fio. 2008. (Relatório de pesquisa).
+ROCHA, A. K. ; CAVALCANTI, E. R. ; PAIVA, S. C. . Um Sistema de Informação Gerencial sobre Projetos de Pesquisa Acadêmica Utilizando Data Warehouse. 2007. (Relatório de pesquisa).
+CAVALCANTI, E. R. . Computação Probabilística: Máquina de Turing Probabilística. 2007. (Relatório de pesquisa).
+CAVALCANTI, E. R. . Uso de CPN para Detecção de Falhas de Loop Infinito no Protocolo AODV. 2007. (Relatório de pesquisa).
+CAVALCANTI, E. R. . Uso de Mineração de Dados para Detecção de Cola em Provas Escolares. 2007. (Relatório de pesquisa).
+CAVALCANTI, E. R. . Fairness no TCP. 2007. (Relatório de pesquisa).
+SOUTO, E. S. ; DINIZ, Amanda A. ; ARAGAO, J. C. N. ; SILVA, Hellen L. de M. ; CAVALCANTI, E. R. . Raciocínio Baseado em Casos Aplicado à Negociação de Ações na Bolsa de Valores. 2005. (Relatório de pesquisa).
+Projetos de pesquisa
+2024 - Atual
+Análise da Proteção no Acesso à Nota Fiscal de Consumidor Eletrônica (NFC-e), Descrição: Atualmente, quase 70 milhões de notas fiscais de consumidor eletrônica (NFC-e) são emitidas diariamente no Brasil. Esses documentos contêm dados sobre a empresa, os produtos que foram vendidos, a forma de pagamento e, em alguns casos, sobre o consumidor que os adquiriu, podendo incluir seu nome, CPF, endereço e número de telefone. A chave de acesso, que contém 44 dígitos, deveria sempre possuir uma parte gerada aleatoriamente. Entretanto, nada impede que o sistema utilizado pela empresa não atenda a esse requisito de segurança. De fato, de acordo com dados levantados em 2017, período de início da implantação na NFC-e na Paraíba e em outros estados, mais de 70 das empresas do varejo no município de Campina Grande (PB) estavam vulneráveis a vazamento de dados (empresariais e pessoais) por utilizar sistemas que geram chaves não aleatórias. O objetivo deste projeto é conhecer a situação atual dessa situação.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (3) . , Integrantes: Elmano Ramalho Cavalcanti - Coordenador., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2024 - Atual
+Avaliação da Segurança de Acesso à Nota Fiscal de Consumidor Eletrônica (NFC-e), Descrição: Dezenas de milhões de notas fiscais eletrônicas (NF-e, NFC-e) são emitidas diariamente no Brasil. O acesso aos seus dados pode ser feito por meio da chave de acesso, que deve conter um trecho gerado aleatoriamente. Entretanto, dados preliminares levantados há alguns anos sugerem que muitas empresas e consumidores estão vulneráveis a vazamentos de dados sensíveis contidos nesses documentos fiscais. Este projeto tem a finalidade de realizar um levantamento sobre o nível de segurança das notas fiscais emitidas por empresas do setor do varejo no município de Campina Grande (PB), bem como de analisar a qualidade dos principais softwares de emissão de nota fiscal disponíveis no GitHub quanto à segurança da chave de acesso gerada.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (3) . , Integrantes: Elmano Ramalho Cavalcanti - Coordenador / David Candeia Medeiros Maia - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa / Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Auxílio financeiro.
+2021 - 2021
+Análise e visualização de dados de covid-19 no estado da Paraíba, Descrição: Melhorar a visualização de dados de covid-19 pode auxiliar o governo e a população local na tomada de decisão e mudanças de comportamento. Atualmente, muitos artigos de pesquisa têm como objetivo, por meio da análise de modelos, prever a evolução da pandemia com base em estatísticas oficiais (ZHENG, 2020)(SINGH, 2020). No entanto, existem preocupações de que os dados oficiais não refletem a realidade no campo, pois os dados podem ser manipulados limitando os testes ou restringindo a sua divulgação, portanto, projeções baseadas em dados incompletos podem levar a conclusões errôneas (IONESCU; ENESCU, 2020, tradução nossa). Nesse sentido, pouco se sabe sobre que tipo de problemas esses dados podem apresentar. Isto é, poucos estudos buscam por inconsistências nos dados publicados localmente, no município de Campina Grande, bem como estudos que apresentem estratégias que possam mitigar essa inconsistências. Dessa forma, este projeto de pesquisa pretende investigar a publicação dos dados de vacinação na plataforma OpenDataSUS relacionado ao município de Campina Grande.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) . , Integrantes: Elmano Ramalho Cavalcanti - Coordenador / Leandro de Almeida Melo - Integrante / Daniel Marques Vasconcelos Guimaraes - Integrante / Mirna Carelli Oliveira Maia - Integrante.
+2020 - 2021
+Aprendendo Ciências da Natureza no Ensino Médio por meio de Modelos Computacionais Baseados em Sistemas Multiagentes, Descrição: É bem conhecido que muitos estudantes do Ensino Médio têm dificuldades em compreender diversos assuntos de disciplinas da área de ciências da natureza. Os resultados do Programa Internacional de Avaliação de Estudantes (PISA) 2018 indicaram que 55% dos estudantes brasileiros não atingiram o nível básico na área de ciências. Para ajudar a mudar essa realidade, o uso de tecnologias da informação e comunicação em sala de aula pode tornar-se fator decisivo. Mais especificamente, sistemas de modelagem e simulação computacionais vêm sendo empregadas no apoio ao ensino de várias disciplinas do ensino básico. Nesse contexto, o software educacional NetLogo, muito pouco conhecido no Brasil, possui uma vasta biblioteca de modelos de simulação utilizados em dezenas de instituições escolares mundialmente. Dessa forma, neste projeto interdisciplinar, pretendemos adaptar e traduzir para o português os principais modelos NetLogo disponíveis para as disciplinas de biologia, física e química no Ensino Médio. Ademais, serão desenvolvidas e avaliadas novas simulações sobre tópicos ainda não contemplados na biblioteca do NetLogo, em concordância com às diretrizes e competências curriculares apresentadas na Base Nacional Comum Curricular (BNCC). Os artefatos produzidos (animações, código e documentação) serão disponibilizados na Plataforma MEC de Recursos Educacionais Digitais (MEC RED), possibilitando seu uso por professores e estudantes de escolas de todo o Brasil.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (3) . , Integrantes: Elmano Ramalho Cavalcanti - Coordenador / Hildson Dornelas Ângelo da Silva - Integrante / Caio Henrique Telles Lins Santos Albuquerque - Integrante / Mário Jorge G. Rocha Neto - Integrante / Havana Diogo Alves Andrada - Integrante.
+2015 - 2016
+Simulação de Fenômenos Eletromagnéticos por meio de Modelos Computacionais baseados em Sistemas Multiagentes, Descrição: Diferentemente de outros campos de estudo da física, que possuem maior facilidade de integração com aspectos práticos, a área de eletromagnetismo requer um esforço mais acentuado, tanto por parte dos professores como dos estudantes, para a concretização da árdua tarefa de ensino-aprendizagem. Experimentação, via o uso de equipamentos eletrônicos e atividades práticas, e modelagem/simulação por meio de programas de computador, têm sido as principais alternativas empregadas para aperfeiçoar o ensino da física no ensino médio e superior. Dentre os métodos de simulação, a que se caracteriza pelo uso de modelos baseados em sistemas multiagentes tem adquirido grande aceitabilidade no meio acadêmico. Este projeto objetiva a construção de modelos inéditos de simulação de fenômenos eletromagnéticos com uso do renomado software NetLogo, a fim de utilizá-los em sala de aula como meio de contribuir para um melhor rendimento dos estudantes dentro desse campo de estudo da física.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: / Mestrado profissional: (1) . , Integrantes: Elmano Ramalho Cavalcanti - Coordenador / ROBSON LIMA PEREIRA DO NASCIMENTO - Integrante / LUCAS DANTAS GUEIROS - Integrante., Financiador(es): Instituto Federal de Pernambuco - Bolsa., Número de produções C, T & A: 2
+2014 - 2016
+Definição e desenvolvimento de um framework de avaliação e análise de modelos de mobilidade em redes móveis sem fio guiada por métricas de mobilidade, Projeto certificado pelo(a) coordenador(a) Marco Aurélio Spohn em 05/12/2014., Descrição: Esse projeto visa sanar uma carência em mecanismos/ferramentas de validação de modelos de mobilidade. A melhor compreensão da mobilidade, de alguma forma avaliada pelas métricas de mobilidade, pode auxiliar no processo de desenvolvimento de protocolos mais eficientes em redes móveis sem fio (e.g., redes móveis ad hoc, redes veiculares).. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) . , Integrantes: Elmano Ramalho Cavalcanti - Integrante / Marco Aurélio Spohn - Coordenador / Reinaldo Cezar M. Gomes - Integrante / Leonardo Araújo Cartaxo da Costa - Integrante., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2012 - 2014
+Investigando as Especificidades e Impacto da Mobilidade em Redes ad hoc Sem Fio, Projeto certificado pelo(a) coordenador(a) Marco Aurélio Spohn em 11/08/2012., Descrição: Esse projeto tem como principal objetivo compreender melhor as especificidades e o impacto da mobilidade na operação das redes ad hoc sem fio, bem como oferecer subsídios para uma avaliação continuada dos efeitos da mobilidade. Adicionalmente, espera-se que os resultados obtidos permitam aprimorar o processo de desenvolvimento de protocolos de comunicação sensíveis à mobilidade. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Doutorado: (1) . , Integrantes: Elmano Ramalho Cavalcanti - Integrante / Marco Aurélio Spohn - Coordenador., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa., Número de produções C, T & A: 7
+2007 - 2009
+Gerenciamento Dinâmico de Energia em Redes de Sensores Sem Fio, Descrição: Este projeto visa desenvolver soluções de gerenciamento dinâmico de energia em redes de sensores sem fio. Edital MCT/CNPq 15/2007 - Universal Processo 470342/2007-2.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . , Integrantes: Elmano Ramalho Cavalcanti - Integrante / Marco Aurélio Spohn - Coordenador / Paulo Sérgio Sausen - Integrante., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+PRÊMIOS
+2016
+Menção Honrosa pelo trabalho apresentado pelo estudante orientando Lucas Dantas Gueiros no XI Congresso de Iniciação Científica do IFPE, Instituto Federal de Pernambuco.
+2011
+Indicação ao prêmio de melhor artigo no simpósio internacional MobiWac., ACM.
+2010
+Best paper award (In: the Fourth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies - UBICOMM), IARIA.
+2002
+3o Lugar Geral da Área de Exatas no Vestibular da Universidade Federal da Paraíba (UFPB), UFPB.
+2001
+Medalha de Bronze na XIV Olimpíada Campinense de Matemática, Departamento de Matemática e Estatística do CCT / UFCG.
+2001
+3o Lugar Geral da Área de Exatas no Vestibular da Universidade Estadual da Paraíba (UEPB), UEPB.
+2000
+2o Lugar Geral no Vestibular da Faculdade de Ciencias Sociais Aplicadas (Facisa), Facisa - Campina Grande.
+Histórico profissional
+ENDEREÇO PROFISSIONAL
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, IFPB - Campus de Campina Grande, Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - CG. , Rua Tranquilino Coelho Lemos, Dinamérica, 58432300 - Campina Grande, PB - Brasil, Telefone: (83) 21026200, URL da Homepage:
+EXPERIÊNCIA PROFISSIONAL
+2015 - 2015
+Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq
+Vínculo: Bolsista, Enquadramento Funcional: Bolsista EXP-B, Carga horária: 8
+Outras informações:
+Bolsista de Extensão no país nível B (EXP-B), devido à aprovação do projeto Consolidando a Nova Geração de Programadores do Agreste Meridional Pernambucano na chamada pública CNPQ/SETEC/MEC 017/2014.
+2012 - 2021
+Instituto Federal de Pernambuco
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Efetivo, Carga horária: 40, Regime: Dedicação exclusiva.
+Atividades
+03/2020 - 05/2021
+Ensino,,Disciplinas ministradas, Teste de Software
+03/2020 - 05/2021
+Ensino, Especialização em Desenvolvimento, Inovação e Tecnologias Emergentes, Nível: Especialização,Disciplinas ministradas, Big Data, Teste de Software
+03/2020 - 05/2021
+Ensino, Análise e Desenvolvimento de Sistemas, Nível: Graduação,Disciplinas ministradas, Programação para a Web I
+01/2020 - 03/2020
+Ensino,,Disciplinas ministradas, Desenvolvimento de Aplicações para Dispositivos Móveis, Estrutura de Dados, Programação para a Web, Redes de Computadores, Segurança e Administração de Redes
+01/2019 - 12/2019
+Ensino,,Disciplinas ministradas, Estrutura de Dados, Linguagem de Programação para a Web, Redes de Computadores, Teste de Software
+01/2018 - 12/2019
+Extensão universitária , Campus Garanhuns.,Atividade de extensão realizada, Coordenação do Projeto de Extensão DETECT CODERS: DEspertando TalEntos para CompuTação e COnstruindo DEsenvolvedoReS.
+01/2018 - 12/2018
+Ensino,,Disciplinas ministradas, Programação Orientada a Objetos e Estrutura de Dados, Redes de Computadores, Desenvolvimento de Aplicações para Dispositivos Móveis
+03/2018 - 07/2018
+Direção e administração, Campus Garanhuns.,Cargo ou função, Chefe da Divisão de Pesquisa.
+03/2018 - 05/2018
+Conselhos, Comissões e Consultoria, Campus Garanhuns.,Cargo ou função, Membro-Titular da Comissão Permanente de Pessoal Docente (CPPD).
+06/2016 - 02/2018
+Conselhos, Comissões e Consultoria, Campus Garanhuns.,Cargo ou função, Membro-Suplente da Comissão Permanente de Pessoal Docente (CPPD).
+08/2015 - 07/2017
+Pesquisa e desenvolvimento, Campus Garanhuns.,Linhas de pesquisa
+10/2016 - 12/2016
+Direção e administração, Campus Garanhuns.,Cargo ou função, Chefe da Divisão de Pesquisa.
+01/2016 - 12/2016
+Extensão universitária , Campus Garanhuns.,Atividade de extensão realizada, Coordenação do Projeto de Extensão DETECT: DEspertando TalEntos para CompuTação.
+11/2015 - 11/2016
+Pesquisa e desenvolvimento, Campus Garanhuns.,Linhas de pesquisa
+01/2015 - 11/2016
+Extensão universitária , Campus Garanhuns.,Atividade de extensão realizada, Curso de Extensão de Treinamento para a Olimpíada Brasileira de Informática.
+05/2016 - 10/2016
+Direção e administração, Campus Garanhuns.,Cargo ou função, Diretor de Pesquisa, Inovação Tecnológica e Extensão.
+11/2015 - 12/2015
+Direção e administração, Campus Garanhuns.,Cargo ou função, Diretor Geral pro tempore.
+08/2015 - 12/2015
+Ensino,,Disciplinas ministradas, Projeto Interdisciplinar, Redes de Computadores
+02/2015 - 12/2015
+Ensino,,Disciplinas ministradas, Algoritmos, Programação Orientada a Objetos e Estrutura de Dados, Redes de Computadores
+02/2014 - 01/2015
+Ensino,,Disciplinas ministradas, Algoritmos, Banco de Dados, Prática Profissional Orientada, Redes de Computadores
+02/2013 - 01/2014
+Ensino,,Disciplinas ministradas, Algoritmos, Redes de Computadores, Sistemas Operacionais
+08/2012 - 01/2013
+Ensino,,Disciplinas ministradas, Projeto Interdisciplinar, Redes de Computadores, Sistemas Operacionais
+2009 - 2012
+CENTRO UNIVERSITARIO-UNIFACISA
+Vínculo: Celetista formal, Enquadramento Funcional: Professor
+Outras informações:
+Professor do curso de Sistemas de Informação.
+Atividades
+08/2012 - 12/2012
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Redes de Computadores
+01/2012 - 07/2012
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Interconexão de Redes de Computadores, Introdução à Informática
+07/2011 - 12/2011
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Gerência de Redes de Computadores, Redes de Computadores
+01/2011 - 06/2011
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Interconexão de Redes de Computadores
+07/2010 - 12/2010
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Redes de Computadores
+01/2010 - 06/2010
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Interconexão de Redes de Computadores
+09/2009 - 12/2009
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Redes de Computadores
+2008 - 2009
+Faculdades Integradas de Patos
+Vínculo: Celetista formal, Enquadramento Funcional: Professor, Carga horária: 16
+Atividades
+02/2009 - 09/2009
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Redes 2, Sistemas Multimídia, Organização e Arquitetura de Computadores, Segurança e Auditoria de Sistemas de Informação
+08/2008 - 01/2009
+Ensino, Sistemas de Informação, Nível: Graduação,Disciplinas ministradas, Segurança e Auditoria de Sistemas de Informação, Redes 2
+2016 - 2017
+Universidade Federal de Campina Grande
+Vínculo: Bolsista, Enquadramento Funcional: Bolsista de pós-doutorado
+2009 - 2014
+Universidade Federal de Campina Grande
+Vínculo: Estudante de pós-graduação, Enquadramento Funcional: Estudante
+2007 - 2009
+Universidade Federal de Campina Grande
+Vínculo: Estudante de pós-graduação, Enquadramento Funcional: Estudante
+Atividades
+09/2009
+Pesquisa e desenvolvimento, Centro de Engenharia Elétrica e Informática, Departamento de Sistemas e Computação.,Linhas de pesquisa
+2006 - 2006
+POLITEC
+Vínculo: Colaborador, Enquadramento Funcional: Desenvolvedor Júnior, Carga horária: 20
+2005 - 2006
+Fundação Parque Tecnológico da Paraíba
+Vínculo: Bolsista ITI 1A, Enquadramento Funcional: Bolsista, Carga horária: 20
+Outras informações:
+Bolsista de Iniciação Tecnológica Industrial do CNPq - Nível 1A.
+2021 - Atual
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Ifpb
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Efetivo, Carga horária: 40, Regime: Dedicação exclusiva.
+Atividades
+01/2023
+Ensino, Engenharia de Computação, Nível: Graduação,Disciplinas ministradas, Metodologia da Pesquisa para Engenhenria de Computação, Projeto em Engenharia de Computação II
+10/2022
+Direção e administração, IFPB - Campus de Campina Grande, Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - CG.,Cargo ou função, Coordenador do curto técnico subsequente de Manutenção e Suporte em Informática.
+08/2021
+Conselhos, Comissões e Consultoria, IFPB - Campus de Campina Grande, Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - CG.,Cargo ou função, Membro do Núcleo Docente Estruturante do Curso Superior de Tecnologia em Telemática.
+01/2022 - 12/2022
+Ensino, Engenharia de Computação, Nível: Graduação,Disciplinas ministradas, Projeto em Engenharia de Computação I
+06/2021 - 12/2022
+Ensino,,Disciplinas ministradas, Redes de Computadores
+06/2021 - 07/2022
+Ensino, Telemática, Nível: Graduação,Disciplinas ministradas, Redes de Computadores
+07/2021 - 12/2021
+Pesquisa e desenvolvimento, IFPB - Campus de Campina Grande, Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - CG.,Linhas de pesquisa
+06/2021 - 12/2021
+Ensino,,Disciplinas ministradas, Fundamentos de Redes de Computadores, Laboratório de Sistemas Operacionais, Redes de Computadores

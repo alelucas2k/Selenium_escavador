@@ -1,0 +1,263 @@
+Acadêmico
+FORMAÇÃO ACADÊMICA
+Doutorado em Ciências da Computação
+2008 - 2013
+Universidade Federal de Pernambuco
+Título: Desenvolvimento de Benchmarks para Sistemas Multiagente: o Caso da Patrulha Orientada a Eventos
+Patricia Cabral de Azevedo Restelli Tedesco. Coorientador: Geber Lisboa Ramalho. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Agentes; Avaliação de Desempenho; Benchmark; Patrulha Multiagente; Eventos.Grande área: Ciências Exatas e da Terra
+Mestrado em Ciência da Computação
+1997 - 1999
+Universidade Federal da Paraíba
+Título: ATMLib - Uma Biblioteca de Classes para o Desenvolvimento de Simuladores de Redes ATM: Proposta e Implementação,Ano de Obtenção: 1999
+Orientador: Maria Izabel Cavalcanti Cabral
+Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Redes de Computadores; Simulação Digital; Orientação a Objetos; UML; Redes ATM.Grande área: Ciências Exatas e da TerraSetores de atividade: Desenvolvimento de Programas (Software).
+Especialização em Gestão da Segurança da Informação
+2005 - 2007
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
+Título: Aplicação de Ontologias na Gestão da Segurança da Informação: Estudo e Proposta
+Orientador: Carlos Alberto Kamienski
+Graduação em Bacharelado Em Ciência da Computação
+1991 - 1996
+Universidade Federal da Paraíba
+Título: Modelagem de Um Sistema de Organização de Eventos Utilizando a Metodologia OMT
+Orientador: Hazencleve Medeiros
+FORMAÇÃO COMPLEMENTAR
+2006 - 2006
+Web Semântica: Teoria e Prática. (Carga horária: 8h). , Universidade Federal do Rio Grande do Norte, UFRN, Brasil.
+2003 - 2003
+Roteamento Multicast na Internet. (Carga horária: 8h). , Universidade Federal do Rio Grande do Norte, UFRN, Brasil.
+2001 - 2001
+Cabeamento Estruturado. (Carga horária: 12h). , Faculdade Ruy Barbosa, FRB, Brasil.
+2000 - 2000
+Introdução a UML. (Carga horária: 4h). , Universidade Federal da Bahia, UFBA, Brasil.
+2000 - 2000
+Protocolos e Arquiteturas para QdS em Redes TCP/IP. (Carga horária: 4h). , Universidade Federal da Bahia, UFBA, Brasil.
+2000 - 2000
+Desenv. de Aplicações de Banco de Dados para Web. (Carga horária: 4h). , Universidade Federal da Bahia, UFBA, Brasil.
+2000 - 2000
+EJB: Componentes p/o Des. de Sist. Dist. Corporat.. (Carga horária: 4h). , Universidade Federal da Bahia, UFBA, Brasil.
+1999 - 1999
+Configuração de Redes TCP/IP em Redes Linux. (Carga horária: 6h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1998 - 1998
+Administrando o Windows NT 4.0. (Carga horária: 24h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1998 - 1998
+Suporte às Tecnologias Principais do Windows NT 4.. (Carga horária: 40h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1997 - 1997
+Extensão universitária em Programação em Delphi. (Carga horária: 18h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1996 - 1996
+Tópicos Avançados em Redes de Alta Velocidade. (Carga horária: 3h). , Universidade Federal do Ceará, UFC, Brasil.
+1996 - 1996
+Qualidade de Serviço e Procolos de Alta Veloc. (Carga horária: 3h). , Universidade Federal do Ceará, UFC, Brasil.
+1996 - 1996
+Intregração de Serviços na Internet. (Carga horária: 3h). , Universidade Federal do Ceará, UFC, Brasil.
+1996 - 1996
+Introdução à Linguagem Java. (Carga horária: 15h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1994 - 1994
+Estilo de Programação. (Carga horária: 6h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1994 - 1994
+UNIX para Usuários. (Carga horária: 6h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1992 - 1992
+Controle, Robótica, Inteligência Artificial. (Carga horária: 4h). , Universidade Federal da Paraíba, UFPB, Brasil.
+1991 - 1991
+Hipertexto e Hipermídia. (Carga horária: 4h). , Universidade Federal da Paraíba, UFPB, Brasil.
+IDIOMAS
+Inglês
+Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente.
+Espanhol
+Compreende Bem, Lê Bem.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Francês
+Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
+ÁREAS DE ATUAÇÃO
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Artificial.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Teleinformática.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Sistemas de Informação.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Matemática da Computação/Especialidade: Modelos Analíticos e de Simulação.
+ORGANIZAÇÃO DE EVENTOS
+ALMEIDA, Marcelo J. S. C. . XVI Olimpíada Brasileira de Informática. 2014. .
+ALMEIDA, Marcelo J. S. C. . Maratona de Programação da Sociedade Brasileira da Computação. 2007. (Concurso).
+PARTICIPAÇÃO EM EVENTOS
+5th Brazilian Conference on Intelligent Systems. 2016. (Outra).
+19th Brazilian Symposium on Artificial Intelligence. 2008. (Simpósio).
+I Encontro de Comunicação Digital do CEFETPB.Web Semântica: Melhorando o Uso da Informação na Era da Internet. 2007. (Outra).
+II Workshop on Ontologies and Metamodeling in Software and Data Engineering. 2007. (Encontro).
+XXII Simpósio Brasileiro de Banco de Dados. 2007. (Simpósio).
+XXI Simpósio Brasileiro de Engenharia de Software. 2007. (Simpósio).
+XII Simpósio Brasileiro de Sistemas Multimídia e Web. 2006. (Simpósio).
+I Fórum OurGrid sobre Grids Computacionais. 2004. (Outra).
+XXI Simpósio Brasileiro de Redes de Computadores. 2003. (Simpósio).
+I ESCOLA REGIONAL DE COMPUTAÇÃO BAHIA-SERGIPE.Desenvolvimento de Sites Dinâmicos Usando Servlets. 2001. (Outra).
+IV Seminários Integrados. 2001. (Seminário).
+VIII Semana de Informática da Universidade Federal da Bahia. 2000. (Outra).
+I Seminário Internacional em Software Design. 1996. (Seminário).
+VIII Simpósio Brasileiro de Banco de Dados. 1993. (Simpósio).
+Seminários de Engenharia Elétrica. 1992. (Seminário).
+VI Simpósio de Informática de Campina Grande. 1991. (Simpósio).
+VI Simpósio de Informática de Campina Grande. 1991. (Outra).
+PARTICIPAÇÃO EM BANCAS
+Aluno: Helder Nunes de Almeida
+ALMEIDA, Marcelo J. S. C.. Previsão de Epidemias a partir do Twitter. 2016. Dissertação (Mestrado em Ciência e Tecnologia da Saúde) - Universidade Estadual da Paraíba.
+Aluno: Filipe da Silva Costa
+ANDRADE, Nazareno; MARINHO, L. B.;ALMEIDA, Marcelo J. S. C.; PIRES, Carlos. Um Estudo Comparativo da Acurácia de Algoritmos de Recomendação em Sistemas de Compras Coletivas. 2014. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Aluno: Daniel Marques Targino Guimarães
+GUIMARÃES, D.; ALENCAR, V.;ALMEIDA, Marcelo J. S. C.. Um Sistema de Apoio à Decisão para Detecção de Problemas Urbanos para a Cidade de Campina Grande. 2017. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Estadual da Paraíba.
+Aluno: Leonardo Costa Vieira
+ALMEIDA, Marcelo J. S. C.. Desenvolvimento de um componente JDBC para acesso a múltiplos SGBD. 2015. Trabalho de Conclusão de Curso (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+Aluno: Ana Lígia Dantas de Farias
+ROCHA, C. V.; DANTAS, Francisco;ALMEIDA, Marcelo J. S. C.. Padrões de Projeto: contribuições de padrões desenvolvidos pós GoF. 2014. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+Aluno: Ana Lígia Dantas de Farias
+ALMEIDA, Marcelo J. S. C.. Padrões de Projeto: contribuições de padrões desenvolvidos pós GoF. 2014. Trabalho de Conclusão de Curso (Graduação em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+Aluno: José Wendell Morais Silva
+ALMEIDA, Marcelo J. S. C.. Recuperação de Informação através de Recursos da Web Semântica: Modelagem e Implementação. 2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas para Internet) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+Aluno: Gregório Enrico Linhares de Melo
+ALMEIDA, Marcelo J. S. C.. Desenvolvimento e Manutenção de Aplicações Utilizando o e-Gen. 2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas para Internet) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+Aluno: Lucas Vieira de Souza
+ALMEIDA, Marcelo J. S. C.. Sistema de Conferência de Extratos Eletrônicos de Cartões de Crédito. 2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas para Internet) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+Aluno: Antônio José de Vasconcelos Costa
+ALMEIDA, Marcelo J. S. C.. Especificação de Componentes de Software para Construção ou Extensão de Ferramenta de Simulação Destinada à Modelagem e Avaliação de Redess de Telefonia Móvel e Celular.. 2003. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciências da Computação) - Centro Universitário de João Pessoa.
+Aluno: Milton Paiva Neto
+ALMEIDA, Marcelo J. S. C.. Configuração do Firewall e Backup para Proteção da Rede Interna do TRT 13 Região. 2003. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciências da Computação) - Centro Universitário de João Pessoa.
+ALMEIDA, Marcelo J. S. C.. Uma Abordagem das Técnicas de Data Mining. 2002. Trabalho de Conclusão de Curso (Graduação em Administração Com Habilitação Em Tecnologia da Inf) - Escola Bahiana de Administração.
+ALMEIDA, Marcelo J. S. C.. Prova de Desempenho do processo seletivo simplificado para professor substituto. 2015. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+MENEZES, E.;ALMEIDA, Marcelo J. S. C.. Concurso Público para Provimento de Vagas em Cargos Técnico-Administrativos. 2006. Universidade Federal do Vale do São Francisco.
+ALMEIDA, Marcelo J. S. C.. Processo Seletivo para Professor Efetivo. 2006. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+ALMEIDA, Marcelo J. S. C.. Concurso Público para Professor Assistente na Matéria Algoritmos e Linguagens de Programação. 2002. Universidade Estadual de Feira de Santana.
+ALMEIDA, Marcelo J. S. C.; LIMA, Aleksandro Guedes; INÁCIO, Francilda Araújo; VARELA, Antônio Gomes. Comissão de Avaliação dos Processos de Solicitação de Bolsas para Pesquisador. 2007. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+ALMEIDA, Marcelo J. S. C.. Avaliação de Projetos de Iniciação Científica PIBICT - Programa Institucional de Bolsas de Iniciação Científica e Tecnológica. 2007. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+ALMEIDA, Marcelo J. S. C.. Comissão Científica do Núcleo de Pesquisa. 2002. Escola Bahiana de Administração.
+ALMEIDA, Marcelo J. S. C.. Processo de Incentivo à Produção Científica. 2001. Universidade Estadual de Feira de Santana.
+COMISSÃO JULGADORA DAS BANCAS
+Flávia de Almeida Barros
+BARROS, F. A.; CAMPOS, A. M. C.; SILVA, F. Q. B.;Ricardo Martins de Abreu Silva; SILVA, D. R. D.. Desenvolvimento de Benchmarks para sistemas multiagente: o caso da patrulha orientada a eventos. 2013. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+Flávia de Almeida Barros
+BARROS, F. A.; SILVA, F. Q. B.; CAMPOS, A. M. C.. DESENVOLVIMENTO DE UM PROCESSO PARA CRIAÇÃO DE BENCHMARKS: O CASO DA PATRULHA MULTIAGENTE. 2012. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+Fabio Queda Bueno da Silva
+BARROS, F. A.;Fabio Q. B. da Silva; SILVA, R. M. A.; CAMPOS, A. M. C.; SILVA, D. R. D.. Desenvolvimento de Benchmarks para Sistemas Multiagente: O Caso da Patrulha Orientada a Eventos. 2013. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+Fabio Queda Bueno da Silva
+BARROS, F. A.; CAMPOS, A. M. C.;Fabio Q. B. da Silva. Desenvolvimento de Benchmarks para Sistemas Multiagente: O Caso da Patrulha Orientada a Eventos. 2012. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+Danielle Rousy Dias Ricarte
+BARROS, F. A.;SILVA, D. R. D.; SILVA, R. M. A.; SILVA, F. Q. B.; CAMPOS, A. M. C.. DESENVOLVIMENTO DE BENCHMARKS PARA SISTEMAS MULTIAGENTE: O CASO DA PATRULHA ORIENTADA A EVENTOS. 2013. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+ORIENTOU
+Viviane Ribeiro Coutinho
+Desenvolvimento de um Sistema de Gerenciamento de Cursos da FUNETEC-PB; Início: 2007; Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas para Internet) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba; (Orientador);
+Leandro Cavalcanti de Almeida
+integração do Sistema Acadêmico da UFPB com o Ambiente de Ensino à Distância Moodle; Início: 2007; Trabalho de Conclusão de Curso (Graduação em Tecnologia em Redes de Computadores) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba; (Orientador);
+JOSÉ ALBERTO VIANA DA SILVA
+Desenvolvimento de um Sistema de Monitoramento de Acesso em Instalações Físicas por Meio de Reconhecimento Facial; Início: 2019; Orientação de outra natureza; Instituto Federal de Educação, Ciência e Tecnologia da Paraíba; (Orientador);
+Bárbara Denytra Monteiro Meira
+Desenvolvimento de um Aplicativo Baseado em Plataforma Móvel para Bares e Restaurantes; 2014; Trabalho de Conclusão de Curso; (Graduação em Tecnologia em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+José Wendell de Morais Silva
+Recuperação de Informação através de recursos de Web-semântica: Modelagem e Implementação; 2007; Trabalho de Conclusão de Curso; (Graduação em Tecnologia em Sistemas para Internet) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+Ítalo Beltrão de Lucena Córdula
+Desenvolvimento de um Sistema de Informações Previdenciárias Baseada em Web; 2004; Trabalho de Conclusão de Curso; (Graduação em Bacharelado Em Ciência da Computação) - Universidade Federal da Paraíba; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+Rodrigo Marques Soares
+Sistema de Lavratura e Controle de Autos de Infração; 2003; Trabalho de Conclusão de Curso; (Graduação em Bacharelado Em Ciência da Computação) - Universidade Federal da Paraíba; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+André Ribeiro Peregrino
+Sistema de Contole Interno Card Control; 2003; Trabalho de Conclusão de Curso; (Graduação em Bacharelado Em Ciência da Computação) - Universidade Federal da Paraíba; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+Aluizio Cavalcanti de Melo Filho
+Projeto de Servidor de Vídeo-Conferência Baseado no Padrão H; 323; 2003; Trabalho de Conclusão de Curso; (Graduação em Bacharelado em Ciências da Computação) - Centro Universitário de João Pessoa; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+Moisés Neves Camelo
+Implementação de um Serviço de Autenticação de Usuário em um Ambiente de Redes Heterogêneo utilizando SAMBA; 2003; Trabalho de Conclusão de Curso; (Graduação em Bacharelado em Ciências da Computação) - Centro Universitário de João Pessoa; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+Eric Bruno de Albuquerque Melo
+Sistema de Detecção de Intrusão; 2003; Trabalho de Conclusão de Curso; (Graduação em Bacharelado em Ciências da Computação) - Centro Universitário de João Pessoa; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+Isana Clarissa P
+dos Santos; Administração de Redes Windows NT no DETRAN-PB; 2003; Trabalho de Conclusão de Curso; (Graduação em Bacharelado em Ciências da Computação) - Centro Universitário de João Pessoa; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+MIQUEAS GALDINO DOS SANTOS
+Desenvolvimento de uma Ferramenta de Simulação para o Problema da Patrulha Multiagente Orientada a Eventos; 2016; Iniciação Científica; (Graduando em Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba; Orientador: Marcelo José Siqueira Coutinho de Almeida;
+FOI ORIENTADO POR
+Maria Izabel Cavalcanti Cabral
+ATMLib: Uma Biblioteca de Classes para a Construção de Simuladores de Redes ATM; 1999; 0 f; Dissertação (Mestrado em Ciência da Computação) - Universidade Federal da Paraíba, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior; Orientador: Maria Izabel Cavalcanti Cabral;
+Maria Izabel Cavalcanti Cabral
+Modelagem de Atrasos em Redes ATM; 1997; 0 f; Iniciação Científica; (Graduando em Ciência da Computação) - Universidade Federal da Paraíba, Conselho Nacional de Desenvolvimento Científico e Tecnológico; Orientador: Maria Izabel Cavalcanti Cabral;
+Carlos Alberto Kamienski
+Um Estudo do Uso de Ontologias no Âmbito da Gerência da Segurança da Informação; 2007; Monografia; (Aperfeiçoamento/Especialização em Gestão de Segurança da Informação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Carlos Alberto Kamienski;
+Geber Lisboa Ramalho
+Desenvolvimento de Benchmarks para Sistemas Multiagentes: O Caso da Patrulha Multiagente; 2013; Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico; Coorientador: Geber Lisboa Ramalho;
+Geber Lisboa Ramalho
+Desenvolvimento de Benchmarks para Sistemas Multiagentes: O Caso da Patrulha Multiagente; 2013; Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco,; Coorientador: Geber Lisboa Ramalho;
+PRODUÇÕES BIBLIOGRÁFICAS
+LIMA, Carlos Diego Quirino ; SOUZA, Gabriela Guedes ; CHAVES, Luiz Carlos Rodrigues ; PEREIRA, Frederico Costa Guedes ; ALMEIDA, Marcelo J. S. C. . Refatorando o SimGRIP: Um Estudo de Caso da Aplicação de Técnicas de Refatoração de Software. Principia (João Pessoa) , v. 15, p. 40-47, 2007.
+ALMEIDA, Marcelo J. S. C. ; FREITAS, F. ; Vasconcelos, Alexandre . AN OVERVIEW AND ROADMAP OF SOFTWARE ENGINEERING CONTRIBUTIONS FOR ONTOLOGIES DEVELOPMENT.. In: IADIS WWW/Internet 2011 (ICWI 2011), 2011, 2011, Rio de Janeiro. Proceedings of the IADIS WWW/Internet 2011 (ICWI 2011), 2011, 2009.
+FARIAS JUNIOR, I. H. ; AZEVEDO, R. R. ; GOMES, J.O. ; FREITAS, F. ; ALMEIDA, Marcelo J. S. C. . Uma Proposta de Boas Práticas no Processo de Comunicação em Projetos de Desenvolvimento Distribuído de Software. In: 6th International Conference on Information Systems and Technology Management, 2009, São Paulo. 6 CONTECSI International Conference on Information Systems and Technology Managemen, 2009.
+AZEVEDO, R. R. ; DANTAS, E.R.G. ; SANTOS, R.C. ; RODRIGUES, C. M. ; FREITAS, F. ; ALMEIDA, Marcelo J. S. C. . An Autonomic Multiagent System Ontology-Based for Management of Security of Information. In: 4th IEEE International Conference for Internet Technology and Secured Transactions (ICITST 2009), 2009, London. Proceedings of 4th IEEE International Conference for Internet Technology and Secured Transactions (ICITST 2009), 2009.
+AZEVEDO, R. R. ; DANTAS, E.R.G. ; SANTOS, R.C. ; RODRIGUES, C. M. ; FREITAS, F. ; ALMEIDA, Marcelo J. S. C. . AutoCore: An Autonomic Ontology-Based Multi-Agent System for Intrusion Detection in Computing Environments. In: IEEE/IFIP 6th Latin American Network Operations and Management Symposium (LANOMS), 2009, Punta del Este. Proceedings of the IEEE/IFIP 6th Latin American Network Operations and Management Symposium, 2009.
+AZEVEDO, R. R. ; FREITAS, F. ; SANTOS, E. B. ; MARANHAO, R. G. ; ALMEIDA, Marcelo J. S. C. . Organização de Grupos de Trabalho em Projetos Utilizando Sistemas Multi-Agentes. In: IV Simpósio Brasileiro de Sistemas de Informação, 2008, Rio de Janeiro. Anais do IV Simpósio Brasileiro de Sistemas de Informação, 2008, 2008.
+AZEVEDO, R. R. ; OLIVEIRA, R. ; FREITAS, F. ; ALMEIDA, Marcelo J. S. C. ; CARVALHO, . CoreSec: Uma Ontologia como Ferramenta Educacional para Apoio no Ensino de Disciplinas de Segurança da Informação. In: XXVIII Congresso da Sociedade Brasileira de Computação (CSBC), 2008, Belém. XXVIII Congresso da Sociedade Brasileira de Computação / WEI - Workshop sobre Educação em Computação, 2008.
+SOUZA, D. A. C. M. ; FUJIOCA, R. C. ; VASCONCELOS, C.R. ; AZEVEDO, R. R. ; ALMEIDA, Marcelo J. S. C. . Honey: An Intelligent Environment Support for the Education of Software Engineering Using Multi-Agents Systems. In: 7th International Information and Telecommunication Technologies Symposium, 2008, Foz do Iguaçu. Proceedings of the 7th International Information and Telecommunication Technologies Symposium, 2008.
+AZEVEDO, R. R. ; FREITAS, F. ; CARVALHO, ; ALMEIDA, Marcelo J. S. C. . CoreSec: An Ontology of Security Aplied to the Business Process of Management.. In: EATIS 2008 - Euro American Conference on Telematics and Information Systems, 2008, Aracaju. Proceedings of the Euro American Conference on Telematics and Information Systems, 2008.
+AZEVEDO, R. R. ; FREITAS, FRed ; BARROS FILHO, E. ; ALMEIDA, Marcelo J. S. C. . Uma Ontologia Genérica de Segurança Aplicada a Gestão de Processos de Negócios. In: 1st Brazilian Workshop on Business Process Management, 2007, Gramado. 1st Brazilian Workshop on Business Process Management, 2007.
+ALMEIDA, Marcelo J. S. C. ; ATAIDE, G. ; SILVA, José Wendell de Morais ; NETO, Gusvato Henrique do Nascimeto ; NEVES, Dulce A B . Representando o conhecimento através de ontologias: o caso do Chatterbot Lunmi. In: VIII Encontro Nacional de Pesquisa em Ciência da Informação, 2007, Salvador. Anais do VIII Encontro Nacional de Pesquisa em Ciência da Informação, 2007.
+LIMA, Carlos Diego Quirino ; SOUZA, Gabriela Guedes ; CHAVES, Luiz Carlos Rodrigues ; PEREIRA, Frederico Costa Guedes ; ALMEIDA, Marcelo J. S. C. . Refatorando o SimGRIP: Um Estudo de Caso da Aplicação de Técnicas de Refatoração de Software. In: II Congresso de Pesquisa e Inovação da Rede Norte-Nordeste de Educação Tecnológica, 2007, João Pessoa. A acontecer em 27 a 30 de novembro de 2007, 2007.
+ATAIDE, G. ; ARAÚJO, Eliany Alvarenga de ; SILVA, José Wendell de Morais ; ALMEIDA, Marcelo J. S. C. . Indexando e Recuperando Informações de um Periódico Científico Eletrônico Especificadas em Metadados Dublin Core Conforme o Modelo de Dados RDF. In: Simpósio Internacional de Bibliotecas Digitais, 2005, São Paulo. Simpósio Internacional de Bibliotecas Digitais, 2005.
+ATAIDE, G. ; ARAÚJO, Eliany Alvarenga de ; SILVA, José Wendell de Morais ; ALMEIDA, Marcelo J. S. C. . EUREKA! UMA FERRAMENTA PARA INDEXAÇÃO E RECUPERAÇÃO DE INFORMAÇÕES A PARTIR DE ELEMENTOS DUBLIN CORE EM UM MODELO DE DADOS BASEADO EM RDF. In: Conferência IADIS Ibero-Americana/Internet, 2005, Lisboa. Conferência IADIS Ibero-Americana/Internet 2005 - Actas, 2005.
+ALMEIDA, Marcelo J. S. C. ; CABRAL, Maria Izabel Cavalcanti . Aspectos de Reusabilidade no Desenvolvimento de Ferramentas de Simulação de Redes ATM. In: Semana de Informática da Bahia, 1999, Salvador. Anais da VIII Semana de Informática da Bahia, 1999. p. 23-31.
+ALMEIDA, Marcelo J. S. C. ; SILVA, D. D. C. ; CUNHA, E. B. . Sphinx: um framework para reconhecimento automático da fala. In: Encontro Anual do IECOM em Comunicações, Redes e Criptografia, 2015, Campina Grande. Anais do Encontro Anual do IECOM em Comunicações, Redes e Criptografia 2015, 2015.
+AZEVEDO, R. R. ; FREITAS, F. ; ALMEIDA, Marcelo J. S. C. ; CARVALHO, ; WENDELL, . CoreSec: Uma Ontologia de Domínio para Auxiliar a Gestão de Segurança da Informação. In: 8th Brazilian Symposium on Information and Computer System Security (SBSeg), 2008, Gramado. Anais do 8th Brazilian Symposium on Information and Computer System Security, 2008.
+SOUZA, D. A. C. M. ; FUJIOCA, R. C. ; AZEVEDO, R. R. ; ALMEIDA, Marcelo J. S. C. ; FREITAS, F. ; VASCONCELOS, C.R. . Uma Proposta de um Ambiente Extensível de Ensino à Distância Aplicado à Área de Engenharia de Software. In: XIV Brazilian Symposium on Multimedia and the Web, 2008, Vila Velha. Proceedings of the XIV Brazilian Symposium on Multimedia and the Web, 2008.
+ALMEIDA, Marcelo J. S. C. ; FREITAS, FRed ; ATAIDE, G. ; AZEVEDO, R. R. . An Ontology about Information Security Management for Autonomic Computing Environments. In: Second Latin American Autonomic Computing Symposium, 2007, Petrópolis`. Proceedings of Second Latin American Autonomic Computing Symposium, 2007. v. 2.
+ALMEIDA, Marcelo J. S. C. ; CABRAL, Maria Izabel Cavalcanti . ATMLib: Uma Biblioteca de Classes para o desenvolvimento de Simuladores de Redes ATM. In: I Seminário de Pós-Graduação da UFPB, 1999, João Pessoa. Resumos do I Seminário de Pós-Graduação da UFPB, 1999.
+ALMEIDA, Marcelo J. S. C. ; CABRAL, Maria Izabel Cavalcanti . Modelagem de Atrasos em Redes ATM. In: IV Encontro de Iniciação Científica da UFPB, 1996, João Pessoa. Resumos do IV Encontro de Iniciação Científica, 1996. p. 30-30.
+ALMEIDA, Marcelo J. S. C. . Programação Competitiva: Conquistas do IFPB. 2015. (Apresentação de Trabalho/Outra).
+ALMEIDA, Marcelo J. S. C. . Introdução à Inteligência Artificial: Um enfoque em Agentes Racionais. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+ALMEIDA, Marcelo J. S. C. . A Web Semântica e a Ciência da Informação: Conceitos, Desafios e Perspectivas. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+ALMEIDA, Marcelo J. S. C. . Web Semântica: Melhorando o Uso da Informação na Era da Internet. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+OUTRAS PRODUÇÕES
+ALMEIDA, Marcelo J. S. C. . Desenvolvimento de Sites Dinâmicos com Servlets usando Servlets. 2001. (Curso de curta duração ministrado/Outra).
+ALMEIDA, Marcelo J. S. C. ; CABRAL, Maria Izabel Cavalcanti . Modelagem de Atrasos em Redes ATM. 1997. (Relatório de pesquisa).
+Projetos de pesquisa
+2016 - 2016
+Desenvolvimento de uma Ferramenta de Simulação para o Problema da Patrulha Multiagente Orientada a Eventos, Descrição: Nos últimos anos o problema da Patrulha Multiagente (PMA) tem despertado crescente interesse por representar uma tarefa promissora para domínios como segurança de redes de computadores, vigilância patrimonial, resgate de vítimas de catástrofes e jogos de computadores. No entanto, os agentes existentes não dispõem de informações sobre os eventos, obrigando-os a realizar sucessivas visitas a todos os lugares do ambiente independente das chances de eles ocorrerem em determinados locais. Diante disto, propomos uma nova categoria de patrulhamento na qual os agentes dispõem de informações sobre os eventos quando for decidir qual deve ser o próximo lugar a ser visitado. O desenvolvimento deste trabalho foi realizado por meio de simulações utilizando o framework REPAST Simphony e da linguagem de programação Java.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (2) . , Integrantes: Marcelo José Siqueira Coutinho de Almeida - Coordenador / Miqueas Galdino dos Santos - Integrante / Rodolfo Bolconte Donato - Integrante.
+2014 - 2015
+Sphinx: um framework para reconhecimento automático da fala, Descrição: Descrição: Um dos principais frameworks referenciados por pesquisas na área de reconhecimento de fala é o Sphinx. Ele possui código fonte aberto, permitindo modificações e adequações de forma a otimizar o seu uso para uma determinada finalidade. Assim, o pesquisador não precisa despender tempo com implementações de algoritmos, validações e outros aspectos relacionados à programação de software, mas sim, investigar e analisar as possíveis técnicas para cada etapa do reconhecimento. Este projeto tem o objetivo de estudar mais profundamente este framework, bem como suas diferentes versões: Sphinx3, Sphinx4 e PocketSphinx... , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) . , Integrantes: Marcelo José Siqueira Coutinho de Almeida - Coordenador / Daniella Dias Cavalcante da Silva - Integrante / Emerson Barbosa da Cunha - Integrante.
+2014 - 2015
+IMUNOS: Uma ferramenta de simulação baseada em SMA para apoio ao estudo de sistema imunológicos, Descrição: Desenvolvimento de uma ferramenta de simulação baseada em Sistemas Multiagente com o objetivo de apoiar o ensino de sistemas imunológicos humanos.. , Situação: Concluído; Natureza: Pesquisa. , Integrantes: Marcelo José Siqueira Coutinho de Almeida - Coordenador / Juan Victor Lyra Barros e Barros - Integrante / Myllena Alexandre Henriques da Silva - Integrante / Gustavo Bezerra Ribeiro - Integrante / Rerisson Daniel Costa Silva Matos - Integrante / Costa Silva Matos - Integrante.
+Histórico profissional
+ENDEREÇO PROFISSIONAL
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba, IFPB - Campus João Pessoa. , Rua José Evangelista de Oliveira, Dinamérica, 58432200 - Campina Grande, PB - Brasil, Telefone: (83) 21026200, URL da Homepage:
+EXPERIÊNCIA PROFISSIONAL
+2004 - Atual
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
+Vínculo: Servidor Público, Enquadramento Funcional: Professor titular, Carga horária: 40, Regime: Dedicação exclusiva.
+Atividades
+10/2013
+Ensino, Telemática, Nível: Graduação,Disciplinas ministradas, Algoritmos e Lógica de Programação, Lógica de Programação e Estruturas de Dados, Estruturas de Dados
+04/2004
+Ensino, Tecnologia em Redes de Computadores, Nível: Graduação,Disciplinas ministradas, Programação Orientada a Objetos
+04/2004
+Ensino, Tecnologia em Sistemas para Internet, Nível: Graduação,Disciplinas ministradas, Algoritmos e Lógica de Programação, Estruturas de Dados, Estruturas de Dados e Lógica de Programação, Ferramentas para Internet, Padrões de Projeto, Sistemas Operacionais
+04/2003 - 04/2004
+Ensino, Tecnologia em Telemática, Nível: Graduação,Disciplinas ministradas, Análise e Projeto de Sistemas
+2003 - 2004
+Universidade Federal da Paraíba
+Vínculo: Professor Substituto, Enquadramento Funcional: Outro (PROFESSOR ASSISTENTE), Carga horária: 40
+Atividades
+05/2003 - 03/2004
+Ensino, Bacharelado Em Ciência da Computação, Nível: Graduação,Disciplinas ministradas, Análise de Sistemas II, Engenharia de Software
+2003 - 2004
+Centro Universitário de João Pessoa
+Vínculo: Celetista, Enquadramento Funcional: Professor Assistente, Carga horária: 20
+Atividades
+03/2003 - 03/2004
+Ensino, Bacharelado em Ciências da Computação, Nível: Graduação,Disciplinas ministradas, Administração de Sistemas, Metodologia de Programação III, Redes de Computadores
+2001 - 2002
+Fundação Para o Desenvolvimentos das Ciências
+Vínculo: Outro, Enquadramento Funcional: Professor titular, Carga horária: 40
+Atividades
+09/2001 - 12/2002
+Ensino, Administração Com Habilitação Em Tecnologia da Inf, Nível: Graduação,Disciplinas ministradas, Análise de Sistemas, Aplicativos em Administração, Auditoria de Sistemas de Informação, Introdução à Informática, Recursos Emergentes da TI
+09/2001 - 12/2002
+Conselhos, Comissões e Consultoria, Escola Bahiana de Administração, Comissão de Pesquisa.,Cargo ou função, Membro de comissão.
+2000 - 2003
+Assoc Baiana de Educ Pro C Cultura
+Vínculo: Professor, Enquadramento Funcional: Professor Assistente, Carga horária: 40
+Atividades
+08/2000 - 01/2003
+Ensino, Bacharelado Em Ciências da Computação, Nível: Graduação,Disciplinas ministradas, Algoritmos, Redes de Computadores I, Linguagem Técnica I, Linguagem Técnica III
+1999 - 2000
+Universidade Federal de Campina Grande
+Vínculo: Professor Substituto, Enquadramento Funcional: Outro (PROFESSOR ASSISTENTE I), Carga horária: 40
+Atividades
+05/1999 - 07/2000
+Ensino, Bacharelado em Ciências da Computação, Nível: Graduação,Disciplinas ministradas, Paradigmas de Linguagens de Programação, Laboratório de Programação II, Laboratório de Programação I

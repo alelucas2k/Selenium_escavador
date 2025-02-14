@@ -1,0 +1,255 @@
+Acadêmico
+FORMAÇÃO ACADÊMICA
+Mestrado em Ciência da Computação - Uern - Ufersa
+2011 - 2012
+Universidade do Estado do Rio Grande do Norte
+Título: Algoritmos e um Sistema Distribuído para Simulação de Redes Óticas com Variação do Ganho dos Amplificadores, Ano de Obtenção: 2012
+Iguatemi Eduardo da Fonseca.Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+Graduação em Ciência da Computação
+2006 - 2010
+Universidade Federal Rural do Semi-Árido
+Título: Amplificação Ótica a Fibra Dopada com Erbium em Redes Óticas
+Orientador: Iguatemi Eduardo da Fonseca
+Curso técnico/profissionalizante em Desenvolvimento de Software
+2006 - 2007
+Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
+Ensino Médio (2º grau)
+2003 - 2005
+Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
+FORMAÇÃO COMPLEMENTAR
+2007 - 2007
+Programação para Dispositívos Móveis. (Carga horária: 8h). , Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, IFRN, Brasil.
+2007 - 2007
+Minicurso Programação para dispositívos móveis. (Carga horária: 8h). , Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, IFRN, Brasil.
+2004 - 2007
+Inglês. (Carga horária: 315h). , FISK, FISK, Brasil.
+IDIOMAS
+Inglês
+Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Bem.
+Espanhol
+Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+ÁREAS DE ATUAÇÃO
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Linguagens de Programação.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Redes de Computadores.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Segurança Computacional.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Jogos Sérios.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Educação.
+PARTICIPAÇÃO EM EVENTOS
+5º Simpósio de Pesquisa, Inovação e Pós-Graduação.Pitch. 2023. (Simpósio).
+Simpósio Brasileiro de Jogos e Entretenimento Digital.Codeland: um jogo para o ensino de lógica de programação com Python. 2022. (Simpósio).
+2º Workshop Técnico-Científico de Computação.UMA AVALIAÇÃO ANALÍTICA DO PROBLEMA DA VARIAÇÃO DO GANHO DOS AMPLIFICADORES EDFA'S EM REDES ÓTICAS. 2011. (Encontro).
+International Workshop on Telecommunications.Analysis of EDFA Gain Variation in Dynamic Optical Networks. 2011. (Oficina).
+1º Workshop Técnico Científico de Computação.Técnicas de Inteligência Artificial Aplicadas a Jogos de Computadores. 2010. (Oficina).
+EPOCA - Escola Potiguar de Computação e suas Aplicações. Programação Segura - Um Estudo de Caso para Votação Eletrônica. 2010. (Congresso).
+I Workshop Tecnologias Aplicadas ao Petróleo e Gás. 2010. (Outra).
+Seminário de Iniciação Científica - SEMIC.Uma Análise do Problema da Variação do Ganho dos Amplificadores EDFAs em Redes Ópticas. 2010. (Seminário).
+International Microwave and Optoeletronic Conference. Routing Techniques in Dynamic Optical Networks Impaired by PMD. 2009. (Congresso).
+XV Seminário de Iniciação Científica 2008/2009.Agoritmos RWA com Múltiplas Rotas em Redes Ópticas Dinâmicas. 2009. (Seminário).
+ENECOMP. 2008. (Congresso).
+EPOCA2008. 2008. (Congresso).
+Semana de Ensino, Pesquisa e Extensão da UFERSA.Iniciação Científica - Propagação de Sinais Ópticos em fibras Monomodo. 2008. (Seminário).
+Semana de Ensino, Pesquisa e Extenção da UFERSA. 2007. (Seminário).
+II Encontro Potiguar de Software Livre. 2006. (Encontro).
+Semana de Ensino, Pesquisa e Extenção da UFERSA. 2006. (Seminário).
+PARTICIPAÇÃO EM BANCAS
+OLIVEIRA, V. A. P.. Processo Seletivo para Professor Substituto - Edital Nº 022/2016. 2016. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+COMISSÃO JULGADORA DAS BANCAS
+FLÁVIA ESTÉLIA SILVA COELHO
+FONSECA, I. E.; SILVA, J. P.;COELHO, F. E. S.. Amplificação Ótica a Fibra Dopada com Erbium em Redes Óticas. 2010. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural do Semi-Árido.
+Tiberius de Oliveira e Bonates
+FONSECA, I. E.;Bonates, Tibérius O.; ASSIS, K. D. R.. Algoritmos e um Sistema Distribuído para Simulação de Redes Óticas com Variação do Ganho dos Amplificadores. 2012. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal Rural do Semi-Árido.
+Tiberius de Oliveira e Bonates
+Bonates, Tibérius O.; FONSECA, I. E.. Benefícios de um Algoritmo de Roteamento e Atribuição de Rota Consciente da Variação do Ganho e um Sistema Distribuído para Simulação de Redes Óticas. 2011. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal Rural do Semi-Árido.
+José Patrocínio da Silva
+F. E. Iguatemida SILVA, J. P.; Silva-Coelho, F. E. Amplificação Óptica a Fibra Dopada com Erbium em Redes Óticas. 2010. Trabalho de Conclusão de Curso (Graduação em Ciências da Computação) - Universidade Federal Rural do Semi-Árido.
+ORIENTOU
+DANIEL DE OLIVEIRA NÓBREGA
+Jogos Sérios aplicados à área da saúde; Início: 2023; Orientação de outra natureza; Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; (Orientador);
+JOÃO HENRIQUE ANDRADE DA SILVA
+Análise de Indicadores Técnicos para Ativos Financeiros: Acurácia dos Sinais de Compra e Venda; ; 2023; Trabalho de Conclusão de Curso; (Graduação em Engenharia da Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+EDUARDO BRUNO DE ALMEIDA DONATO
+SISPRO: um aplicativo de atendimento ao cliente para consulta processual; 2022; Trabalho de Conclusão de Curso; (Graduação em Engenharia da Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+IGOR HENRIQUE MARTINS ARAÚJO
+SISPRO: um aplicativo de atendimento ao cliente para consulta processual; 2022; Trabalho de Conclusão de Curso; (Graduação em Engenharia da Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+JÚLIO CESAR URBANO VASCONCELOS FILHO
+SISPRO: um aplicativo de atendimento ao cliente para consulta processual; 2022; Trabalho de Conclusão de Curso; (Graduação em Engenharia da Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Andreza Costa dos Santos
+Levantamento de técnicas de inteligência artificial aplicadas à personagens não jogáveis em jogos digitais; 2022; Iniciação Científica; (Graduando em Engenharia da Computação) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+ANDRÉ YURI RANGEL RIBEIRO
+DONATED: UMA APLICAÇÃO WEB DE CADASTRO E BUSCA DE DOAÇÕES; 2021; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Deyse Ingrid Silva Candido
+Relatório de Estágio Supervisionado; 2021; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Marcelo Alves da Silva Filho
+Relatório de Estágio Supervisionado; 2021; Orientação de outra natureza; (Telemática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Erick Araken Vieira Gomes
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Inácia Rilmara Marques Furtado
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Rayane Abrantes de Sousa
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Larissa Monique de Sousa Silveira
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+José Victor Perereira de Paula
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Ian Formiga Nóbrega
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Andressa Antunes de França
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Daminana Hernestina Alves
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Marcelo Soares da Silva Tomé
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Natália Cosmo da Silva
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Gerlucy Aristides da Silva
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Mylena Andrade da Silva
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Adnaylson Fernandes Pereira
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Allan Fernandes de Sousa
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Diógenes Antônio da Silva
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Francisca Daniele da Silva
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Gercianney Mariano da Silva
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Jardel Alves do Nascimento
+Relatório de Estágio Supervisionado; 2019; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Ana Caroline Fernandes de Sousa
+Relatório de Estágio Supervisionado; 2018; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Mariana Neves de Sousa
+Relatório de Estágio Supervisionado; 2018; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Emilly de Oliveira Silva
+Relatório de Estágio Supervisionado; 2018; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Kaio Fernandes de Sousa
+Relatório de Estágio Supervisionado; 2018; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Yuri Rennan Campos Silva
+Relatório de Estágio Supervisionado; 2018; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Mateus Moreira de Sousa
+Relatório de Estágio Supervisionado; 2018; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Eliel Victor da Silva Fernandes
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Ives Ian Moura Almeida
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Janiffer Kelly Rufino de Araújo
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Lucas Neves Norvino
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Rodrigo Santana de Queiroga
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Thiago Pontes de Sá
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Kaio Fernandes de Sousa
+Relatório de Estágio Supervisionado; 2017; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Franklyn Ayran Alves Monteiro
+Relatório de Estágio Supervisionado; 2016; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Josevanda Gonçalves de Oliveira
+Relatório de Estágio Supervisionado; 2016; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Kelly Marilene dos Santos Nóbrega
+Relatório de Estágio Supervisionado; 2016; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Lucas Vinícius Oliveira Santos
+Relatório de Estágio Supervisionado; 2016; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Márcia dos Anjos Gomes
+Relatório de Estágio Supervisionado; 2016; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Marquiciene Gomes de Oliveira
+Relatório de Estágio Supervisionado; 2016; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Aline Vanara Maciel Soares
+Relatório de Estágio Supervisionado; 2015; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Daniel Rodrigues Coura
+Relatório de Estágio Supervisionado; 2015; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Débora Emanuelle S
+de Sousa; Relatório de Estágio Supervisionado; 2015; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+Luzia Valéria de Sousa
+Relatório de Estágio Supervisionado; 2015; Orientação de outra natureza; (Técnico em Informática) - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB; Orientador: Victor André Pinho de Oliveira;
+FOI ORIENTADO POR
+Iguatemi Eduardo da Fonseca
+Algoritmos e um Sistema Distribuído para Simulação de Redes Óticas com Variação do Ganho dos Amplificadores; 2012; Dissertação (Mestrado em Ciência da Computação) - Universidade Federal Rural do Semi-Árido, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior; Orientador: Iguatemi Eduardo da Fonseca;
+Iguatemi Eduardo da Fonseca
+AMPLIFICAÇÃO ÓTICA A FIBRA DOPADA COM ERBIUM EM REDES ÓTICAS; 2010; Trabalho de Conclusão de Curso; (Graduação em Ciências da Computação) - Universidade Federal Rural do Semi-Árido; Orientador: Iguatemi Eduardo da Fonseca;
+Iguatemi Eduardo da Fonseca
+Técnicas de Roteamento em Redes Ópticas Amplificadas por EDFA'S; 2010; Iniciação Científica; (Graduando em Ciências da Computação) - Universidade Federal Rural do Semi-Árido, Conselho Nacional de Desenvolvimento Científico e Tecnológico; Orientador: Iguatemi Eduardo da Fonseca;
+Iguatemi Eduardo da Fonseca
+Algoritmos de Alocação de Rota e de Comprimento de Onda em Redes Ópticas; 2009; Iniciação Científica; (Graduando em Ciências da Computação) - Universidade Federal Rural do Semi-Árido, Conselho Nacional de Desenvolvimento Científico e Tecnológico; Orientador: Iguatemi Eduardo da Fonseca;
+Iguatemi Eduardo da Fonseca
+Estudo da Propagação de Sinais em Fibras Ópticas Monomodo; 2008; Iniciação Científica; (Graduando em Ciências da Computação) - Universidade Federal Rural do Semi-Árido, Conselho Nacional de Desenvolvimento Científico e Tecnológico; Orientador: Iguatemi Eduardo da Fonseca;
+PRODUÇÕES BIBLIOGRÁFICAS
+OLIVEIRA, V. A. P. ; NETO, F. A. O. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Analysis of EDFA Gain Variation in Dynamic Optical Networks. Revista Telecomunicações , v. 2012, p. 1, 2012.
+OLIVEIRA, V. A. P. ; SILVA, M. R. ; FERNANDES, E. M. . OS IMPACTOS DA TECNOLOGIA DA INFORMAÇÃO NA EDUCAÇÃO. Princípios e Fundamento das Ciências. 1ed.: Atena Editora, 2018, v. 2, p. 92-96.
+OLIVEIRA, V. A. P. ; SOARES, P. L. B. ; DALUA, A. F. A. S. -. ; SANTOS, Ítalo W. S. . Técnicas de Inteligência Artificial Aplicadas a Jogos de Computadores. In: Angélica Félix de Castro; Flávia Estélia Silva Coelho; Yáscara Ygara Menescla Pinto Fernandes. (Org.). Workshop Técnico-Científico de Computação. 1ed.Mossoró: EdUFERSA, 2014, v. 1, p. 45-58.
+OLIVEIRA, V. A. P. ; Oliveira, N. A. P. . Proposta de Um Ambiente Virtual Colaborativo para Apoio no Ensino da Programação. In: Angélica Félix de Castro; Flávia Estélia Silva Coelho; Yáscara Ygara Menescla Pinto Fernandes. (Org.). Workshop Técnico-Científico de Computação. 1ed.Mossoró: EdUFERSA, 2014, v. 1, p. 73-86.
+LEITE, JACKSON P. S. ; OLIVEIRA, VICTOR A. P. ; SOUSA, IANNA M. S. F. DE . O poder do foco na aprendizagem de programação. In: Simpósio Brasileiro de Informática na Educação, 2022, Brasil. Anais do XXXIII Simpósio Brasileiro de Informática na Educação (SBIE 2022). Manaus: Sociedade Brasileira de Computação - SBC, 2022. p. 139-148.
+SILVA, A. L. ; NASCIMENTO, G. S. ; PEREIRA, J. G. O. ; MEDEIROS NETO, L. ; ARAUJO, M. E. C. S. ; OLIVEIRA, V. A. P. . Codeland: um jogo para o ensino de lógica de programaçãocom Python. In: Simpósio Brasileiro de Jogos e Entretenimento Digital, 2022, Natal. Anais Estendidos do XXI Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2022), 2022. p. 643-652.
+NOGUEIRA, P. H. T. M. ; OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Um Novo Algoritmo para Alocação de Rota e Comprimento de Onda com Restrições de Energia e da Camada Física em Redes Ópticas. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2014, Florianópolis - SC. XXXII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2014. v. XXXII. p. 867-880.
+OLIVEIRA, V. A. P. ; NETO, F. A. O. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Análise de desempenho de redes óticas dinâmicas equipadas com EDFA?s com saturação de ganho. In: Congresso da Sociedade Brasileira de Computação, 2011, Natal. XXXI - Congresso da Sociedade Brasileira de Computação, 2011. p. 1995-2007.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) ; NETO, F. A. O. . Analysis of EDFA Gain Variation in Dynamic Optical Networks. In: International Workshop on Telecommunications, 2011, Rio de Janeiro. Proceedings - International Workshop on Telecommunicatios, 2011. p. 335-340.
+OLIVEIRA, V. A. P. ; NETO, F. A. O. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Benefícios da Eliminação da Variação de Ganho em EDFA ́s para Redes Óticas Dinâmicas. In: Simpósio Brasileiro de Telecomunicações, 2011, Curitiba. Simpósio Brasileiro de Telecomunicações, 2011.
+SOARES, P. L. B. ; OLIVEIRA, V. A. P. ; OLIVEIRA, R. S. . Implementação de uma Aplicação com base em um SIG para Estudo de Doenças Epidemiológicas. In: 1º Workshop Técnico Científico de Computação, 2010, Mossoró - RN. Anais 1º WTCC, 2010.
+OLIVEIRA, V. A. P. ; SOARES, P. L. B. ; DALUA, A. F. A. S. -. . Técnicas de Inteligência Artificial Aplicadas a Jogos de Computadores. In: 1º Workshop Técnico Científico de Computação, 2010, Mossoró - RN. Anais 1º WTCC, 2010.
+OLIVEIRA, V. A. P. ; SOARES, P. L. B. ; OLIVEIRA, R. S. ; COELHO, Flávia E. S. . Proramação Segura - Um Estudo de Caso Para Votação Eletrônica. In: EPOCA - Escola Potiguar de Computação e suas Aplicações, 2010, Mossoró - RN. Anais EPOCA 2010, 2010.
+OLIVEIRA, V. A. P. ; SOARES, P. L. B. . Brian - Um Agente Inteligente Cognitivo e Deliberativo para Aplicações em Jogos de Computadores. In: WORKSHOP DE INFORMÁTICA APLICADA E DESENVOLVIMENTO DE JOGOS PARA COMPUTADORES E DISPOSITIVOS MÓVEIS, 2010, Volta Redonda - RJ. Anais III WIA, 2010.
+Gomes, A. F. ; Fernandes, C. E. M. ; OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Estratégia de Roteamento em Algoritmos IA-RWA para Redes Ópticas ? Uma avaliação da Dispersão de Modo de Polarização. In: XXVII SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES - SBrT 2009, 2009, Blumenau - SC. XXVII SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES - SBrT 2009, 2009. v. 1. p. 1-6.
+Gomes, A. F. ; Fernandes, C. E. M. ; OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Roteamento em Algoritmos IA-RWA em Redes Ópticas Limitadas por Dispersão de Modo de Polarização. In: EPOCA - Escola Potiguar de Computação e suas Aplicações, 2009, Natal - RN. Anais EPOCA 2009, 2009.
+Gomes, A. F. ; Fernandes, C. E. M. ; OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Routing Techniques in Dynamic Optical Networks Impaired by PMD. In: IMOC - International Microwave and Optoeletronics Conference, 2009, Belém - PA. 2009 SBMO/IEEE MTT-S International Microwave and optoeletronics conference, 2009.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Algoritmos RWA com Múltiplas Rotas em Redes Ópticas Dinâmicas. In: XXVII Simpósio Brasileiro de Telecomunicações, 2009, Blumenal - SC. XXVII - Anais SbrT, 2009.
+VASCONSELOS, D. B. ; SANTOS, A. C. ; THEMOTEO, M. P. B. ; OLIVEIRA, V. A. P. ; SOUSA, IANNA M. S. F. DE . PROPOSTA DE DESENVOLVIMENTO DE UM ESCAPE ROOM COMO ESTRATÉGIA DE GAMIFICAÇÃO PARA O ENSINO DO TERMINAL LINUX. In: 5º Simpósio de Pesquisa, Inovação e Pós-Graduação, 2023, Cabedelo-PB. Anais do V SIMPIF, 2023.
+SOUZA, J. S. ; SOUSA, J. V. N. ; NASCIMENTO, T. S. ; OLIVEIRA, V. A. P. . O USO DE FERRAMENTAS GAMIFICADAS PARA O ENSINO DA FÍSICA. In: 5º Simpósio de Pesquisa, Inovação e Pós-Graduação, 2023, Cabedelo-PB. Anais do V SIMPIF, 2023.
+LUCENA, D. F. ; SOBRAL, E. P. ; PIERRE, M. P. A. ; OLIVEIRA, V. A. P. . Jogo sério no Ensino de Física: uma alternativa didática à explanação do consumo residencial de energia elétrica. In: 5º Simpósio de Pesquisa, Inovação e Pós-Graduação, 2023, Cabedelo-PB. Anais do V SIMPIF, 2023.
+SANTOS, A. C. ; THEMOTEO, M. P. B. ; OLIVEIRA, V. A. P. ; Costa, A. F. B. F. . LEVANTAMENTO DE TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL APLICADAS À PERSONAGENS NÃO JOGÁVEIS EM JOGOS DIGITAIS. In: 5º Simpósio de Pesquisa, Inovação e Pós-Graduação, 2023, Cabedelo-PB. Anais do V SIMPIF, 2023.
+SILVA, A. L. ; NASCIMENTO, G. S. ; PEREIRA, J. G. O. ; MEDEIROS NETO, L. ; ARAUJO, M. E. C. S. ; OLIVEIRA, V. A. P. . O jogo educacional Codeland como instrumento de apoio ao ensino de lógica de programação com Python. In: Encontro de Computação do Oeste Potiguar (ECOP), 2022, Pau dos Ferros. Anais do V Encontro de Computação do Oeste Potiguar (ECOP), 2022. v. 6. p. 34-37.
+FERNANDES, E. M. ; OLIVEIRA, V. A. P. ; SILVA, M. R. . Os impactos da tecnologia da informação na educação. In: XI CONNEPI, 2016, Recife. Anais do XI Congresso Norte Nordeste de Pesquisa e Inovação, 2016. p. 17185-17190.
+OLIVEIRA, V. A. P. ; Oliveira, N. A. P. . Proposta de um Ambiente Virtual Colaborativo para o Apoio no Ensino da Programação. In: 2º Workshop Técnico-Científico de Computação, 2011, Mossoró. 2o Workshop Técnico-Científico de Computação (WTCC), 2011. p. 107-113.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . UMA AVALIAÇÃO ANALÍTICA DO PROBLEMA DA VARIAÇÃO DO GANHO DOS AMPLIFICADORES EDFA'S EM REDES ÓTICAS. In: 2º Workshop Técnico-Científico de Computação, 2011, Mossoró. 2o Workshop Técnico-Científico de Computação (WTCC), 2011. p. 155-160.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) ; NETO, F. A. O. . Uma Análise do Problema da Variação do Ganho dos Amplificadores EDFAs em Redes Ópticas. In: XVI Seminário de Iniciação Científica 2009/2010, 2010, Mossoró - RN. XVI Seminário de Iniciação Científica, 2010.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Algoritmos RWA com Múltiplas Rotas em Redes Ópticas Dinâmicas. In: XV Seminário de Iniciação Científica 2008/2009, 2009, Mossoró - RN. XV Seminário de Iniciação Científica, 2009.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Propagação de Sinais Ópticos em Fibras Monomodo. In: Semana de Ensino, Pesquisa e Extensão, 2008, Mossoró. Semana de Ensino, Pesquisa e Extensão, 2008.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . UMA AVALIAÇÃO ANALÍTICA DO PROBLEMA DA VARIAÇÃO DO GANHO DOS AMPLIFICADORES EDFA'S EM REDES ÓTICAS. 2011. (Apresentação de Trabalho/Seminário).
+OLIVEIRA, V. A. P. ; Oliveira, N. A. P. . Proposta de um Ambiente Virtual Colaborativo para o Apoio no Ensino da Programação. 2011. (Apresentação de Trabalho/Seminário).
+OLIVEIRA, V. A. P. ; NETO, F. A. O. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Análise de desempenho de redes óticas dinâmicas equipadas com EDFA?s com saturação de ganho. 2011. (Apresentação de Trabalho/Congresso).
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) ; NETO, F. A. O. . Uma Análise do Problema da Variação do Ganho dos Amplificadores EDFAs em Redes Ópticas. 2010. (Apresentação de Trabalho/Seminário).
+OLIVEIRA, V. A. P. ; SOARES, P. L. B. ; OLIVEIRA, R. S. . Técnicas de Inteligência Artificial Aplicadas a Jogos de Computadores. 2010. (Apresentação de Trabalho/Outra).
+OLIVEIRA, V. A. P. ; SOARES, P. L. B. ; OLIVEIRA, R. S. ; COELHO, Flávia E. S. . Programação Segura - Um Estudo de Caso para Votação Eletrônica. 2010. (Apresentação de Trabalho/Congresso).
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Agoritmos RWA com Múltiplas Rotas em Redes Ópticas Dinâmicas. 2009. (Apresentação de Trabalho/Seminário).
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Propagação de Sinais Ópticos em fibras monomodo. 2008. (Apresentação de Trabalho/Seminário).
+OUTRAS PRODUÇÕES
+OLIVEIRA, V. A. P. . Simulador RWA. 2008.
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Algoritmos de Alocação de Rota e Comprimento de Onda. 2009. (Relatório de pesquisa).
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Propagação de Sinais Ópticos em Fibras Monomodo. 2008. (Relatório de pesquisa).
+OLIVEIRA, V. A. P. ; Fonseca, I. E. (Iguatemi Eduardo da Fonseca) . Propagação de Sinais Ópticos em Fibras Monomodo. 2008. (Resumo Expandido).
+Projetos de pesquisa
+2023 - Atual
+Jogo sério no Ensino de Física: uma alternativa didática à explanação do consumo residencial de energia elétrica, Descrição: A proposta deste projeto é a elaboração de um jogo sério voltado para o ensino de consumo elétrico domiciliar. Um jogo sério, ou jogo educacional, é um tipo de jogo que não tem como objetivo final apenas o entretenimento, mas tem como objetivo final a educação ou treinamento (Bahaweres, 20??). Eles são frequentemente usados para ensinar habilidades técnicas, como programação de computadores, planejamento financeiro, liderança e trabalho em equipe; além de permitir que os jogadores aprendam de forma interativa e prática, o que pode ser mais envolvente do que os métodos tradicionais de aprendizado.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (4) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Victor André Pinho de Oliveira - Coordenador / Mateus Penha Albuquerque Pierre - Integrante / Danilo Ferreira de Lucena - Integrante / Felipe Luiz de Lima - Integrante / Euler Pereira Sobral - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Auxílio financeiro / Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa.
+2023 - Atual
+O Uso de Ferramentas Gamificadas para o Ensino da Física, Descrição: Partindo da hipótese de que a gamificação traz melhores resultados, e em atendimento da necessidade da utilização de estratégias metodológicas alternativas, o presente projeto tem como proposta facilitar, impulsionar o aprendizado da física inicial do ensino médio por meio da criação de atividades gamificadas. Para tanto, os pesquisadores tirarão proveito de ferramentas tecnológicas já disponíveis, e voltadas para a criação desses tipos de atividades.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (3) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Victor André Pinho de Oliveira - Coordenador / Juliana Silva Souza - Integrante / João Victor Nunes de Sousa - Integrante / Thiago dos Santos Nascimento - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa.
+2023 - Atual
+Levantamento de jogos sérios voltados para área da saúde no âmbito nacional, Descrição: A presente proposta de pesquisa tem por finalidade realizar uma pesquisa bibliográfica com o intuito de explorar quais jogos digitais já foram criados para o âmbito da saúde e bem-estar no Brasil, visando compreender quais são as finalidades de determinados jogos e utilidades para a saúde e bem-estar dos brasileiros.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (2) . , Integrantes: Victor André Pinho de Oliveira - Integrante / Ianna Maria Sodre Ferreira de Sousa - Coordenador / Andreza Costa dos Santos - Integrante / Kponjesu Babatundé Aurex-Spéro Kounou - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa.
+2023 - Atual
+Gamificando o Terminal Linux: uma estratégia de reforço ao ensino do uso do terminal, Descrição: Com o propósito de abranger o acesso e promover inclusão digital de mais pessoas, como também contribuição para o incentivo aos estudos e agregação de valor em novas metodologias de ensino, o presente projeto tem como proposta desenvolver um ambiente gamificado com o intuito de ensinar a utilização do terminal Linux. Como produto final pretende-se obter um ambiente gamificado a partir do gênero de jogo conhecido como Escape Room, caracterizado, por sua vez, como um estilo de jogo imersivo que proporciona o desenvolvimento de várias habilidades através de quebra-cabeças incentivando o jogador (usuário) a alcançar objetivos menores até atingir um propósito maior a partir de uma narrativa. Será utilizado práticas de ensino e aprendizagem de forma lúdica e criativa utilizando o próprio ambiente Linux com o intuito de fornecer uma experiência imersiva e motivacional aos estudos sobre a utilização do terminal de comandos.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (4) . , Integrantes: Victor André Pinho de Oliveira - Integrante / Ianna Maria Sodre Ferreira de Sousa - Coordenador / Andreza Costa dos Santos - Integrante / Mikael Pereira Belo Themoteo - Integrante / Daniel Barbosa Vasconcelos - Integrante / Jose Ruan Serafim de Brito - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa.
+2023 - Atual
+Desenvolvimento de um Escape Room como estratégia de gamificação do ensino do Terminal Linux, Descrição: Com o propósito de abranger o acesso e promover inclusão digital de mais pessoas, como também contribuição para o incentivo aos estudos e agregação de valor em novas metodologias de ensino, o presente projeto tem como proposta desenvolver um ambiente gamificado com o intuito de ensinar a utilização do terminal Linux. Como produto final pretende-se obter um ambiente gamificado a partir do gênero de jogo conhecido como Escape Room, caracterizado, por sua vez, como um estilo de jogo imersivo que proporciona o desenvolvimento de várias habilidades através de quebra-cabeças incentivando o jogador (usuário) a alcançar objetivos menores até atingir um propósito maior a partir de uma narrativa. Será utilizado práticas de ensino e aprendizagem de forma lúdica e criativa utilizando o próprio ambiente Linux com o intuito de fornecer uma experiência imersiva e motivacional aos estudos sobre a utilização do terminal de comandos.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (3) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Victor André Pinho de Oliveira - Coordenador / Andreza Costa dos Santos - Integrante / Mikael Pereira Belo Themoteo - Integrante / Daniel Barbosa Vasconcelos - Integrante.
+2022 - 2023
+Levantamento de técnicas de inteligência artificial aplicadas à personagens não jogáveis em jogos digitais, Descrição: Levando em consideração todo cenário do mercado de jogos e também a relevância da inteligência artificial para o avanço tecnológico, esse presente trabalho consiste em apresentar uma proposta de pesquisa exploratória por meio de pesquisa bibliográfica tendo como principal objetivo a análise e sintetização de técnicas de Inteligência Artificial (IA) utilizadas em Personagens Não Jogáveis (Non-Player Character - NPCs) nos jogos.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (2) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Victor André Pinho de Oliveira - Coordenador / Anderson Fabiano Batista Ferreira da Costa - Integrante / Andreza Costa dos Santos - Integrante / Mikael Pereira Belo Themoteo - Integrante., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2021 - 2022
+Análise de aprendizagem em disciplinas de programação no âmbito do IFPB Campus Campina Grande, Descrição: Tem-se como objetivo geral identificar correlações entre dados coletados da plataforma The Huxley e o desempenho final dos alunos de turmas de Introdução à Programação do IFPB Campus Campina Grande.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) . , Integrantes: Victor André Pinho de Oliveira - Coordenador / Ianna Maria Sodre Ferreira de Sousa - Integrante / Jackson Platiny Soares Leite - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Bolsa / Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Auxílio financeiro.
+2021 - 2022
+Desenvolvimento de um Jogo Educacional para Apoio no Ensino da Programação, Descrição: O objetivo geral desta pesquisa consiste em desenvolver um jogo educacional como ferramenta pedagógica para auxiliar no ensino da programação.. , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (5) . , Integrantes: Victor André Pinho de Oliveira - Coordenador / Gabriel da Silva Nascimento - Integrante / Maria Eduarda Cunha Silva Araújo - Integrante / Jhonatan Guilherme Oliveira Pereira - Integrante / Luiz Medeiros Neto - Integrante / Ayrtton Lucas Silva - Integrante.
+2009 - 2010
+Iniciação Científica - Provimento de Qualidade de Serciço em Redes Ópticas, Situação: Concluído; Natureza: Pesquisa. , Integrantes: Victor André Pinho de Oliveira - Integrante / Fonseca, I. E. (Iguatemi Eduardo da Fonseca) - Coordenador., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa., Número de produções C, T & A: 5
+2008 - 2009
+Iniciação Científica - Algorítmos de alocação de rota e de comprimento de onda em redes ópticas, Situação: Concluído; Natureza: Pesquisa. , Integrantes: Victor André Pinho de Oliveira - Integrante / Fonseca, I. E. (Iguatemi Eduardo da Fonseca) - Coordenador / Alexsandra Ferreira Gomes - Integrante / Carlos Evandro Medeiros Fernandes - Integrante., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa., Número de produções C, T & A: 3
+2007 - 2008
+Iniciação Científica - Propagação de Sinais Ópticos em fibras Monomodo, Situação: Concluído; Natureza: Pesquisa. , Integrantes: Victor André Pinho de Oliveira - Integrante / Fonseca, I. E. (Iguatemi Eduardo da Fonseca) - Coordenador., Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa., Número de produções C, T & A: 2
+PRÊMIOS
+2011
+Certificado de 1º lugar da turma de Ciência da Computação, Universidade Federal Rural do Semi-Árido.
+2011
+Melhores Trabalhos Apresentados na Categoria Artigos de Mestrado, Universidade Federal Rural do Semiárido.
+2011
+Melhores Trabalhos Apresentados na Categoria Artigos de Mestrado, Universidade Federal Rural do Semiárido.
+Histórico profissional
+ENDEREÇO PROFISSIONAL
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB. , Rua Tranquilino Coelho Lemos, Dinamérica, 58432300 - Campina Grande, PB - Brasil, Telefone: (83) 21026200

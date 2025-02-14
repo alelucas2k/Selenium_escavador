@@ -1,0 +1,173 @@
+Acadêmico
+FORMAÇÃO ACADÊMICA
+Doutorado em Engenharia Elétrica
+2008 - 2012
+Universidade Federal de Campina Grande
+Título: Uma Abordagem para Suporte à Verificação Funcional no Nível de Sistema Aplicada a Circuitos Digitais que Empregam a Técnica Power Gating
+Orientador: Elmar Uwe Kurt Melcher
+Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: ESL; Verificação Funcional; Power Gating; TLM; RTL; Low Power. Grande área: EngenhariasSetores de atividade: Fabricação de equipamentos de informática, produtos eletrônicos e ópticos.
+Mestrado em Ciência da Computação
+2007 - 2008
+Universidade Federal de Campina Grande
+Título: Gerador de Vídeo Randômico Sintético para Verificação Funcional de Circuitos Decodificadores de Vídeo MPEG-4,Ano de Obtenção: 2008
+Elmar Uwe Kurt Melcher.Palavras-chave: Verificação Funcional; Estímulo; MPEG-4; Randômico; IP-Core; Testbench.
+Graduação em Bacharelado Ciências da Computação
+2002 - 2006
+Universidade Federal de Campina Grande
+Título: Aprimoramento de um gerador de vídeos sinteticos randômicos para formato MPEG4 - Simple Profile Level 1
+Orientador: Elmar Uwe Kurt Melcher
+Curso técnico/profissionalizante em Técnico Telecomunicações
+1995 - 1997
+Escola Técnica Redentorista
+FORMAÇÃO COMPLEMENTAR
+2016 - 2016
+Introdução à Propriedade Intelectual e Busca de Anterioridade. (Carga horária: 12h). , Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, IFPB, Brasil.
+2008 - 2008
+Encounter Test JumpStart to ATPG 6.2.1. (Carga horária: 8h). , Cadence Design Systems, Inc., CDN, Estados Unidos.
+2008 - 2008
+Encounter Test ATPG and Diagnostics 6.2. (Carga horária: 16h). , Cadence Design Systems, Inc., CDN, Estados Unidos.
+2007 - 2008
+Extensão universitária em Curso Língua Inglesa. (Carga horária: 120h). , Universidade Federal de Campina Grande, UFCG, Brasil.
+2007 - 2007
+Floorplainning and Physical Synthesis whit F.E. XL. (Carga horária: 16h). , Cadence Design Systems, Inc., CDN, Estados Unidos.
+2007 - 2007
+Encounter RTL Compiler 6.2. (Carga horária: 16h). , Cadence Design Systems, Inc., CDN, Estados Unidos.
+2006 - 2006
+Processamento Digital de Vídeo. (Carga horária: 30h). , Universidade Federal de Campina Grande, UFCG, Brasil.
+2006 - 2006
+Treinamento Fluxo Mentor Graphics. (Carga horária: 32h). , Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.
+2005 - 2005
+Testabilidade de SoC. (Carga horária: 32h). , Universidade de São Paulo, USP, Brasil.
+2005 - 2005
+Desenvolvimento de IP-Cores usando fluxo da FORTE. (Carga horária: 16h). , Universidade Estadual de Campinas, UNICAMP, Brasil.
+2005 - 2005
+Fluxo de desenvolvimento com Quartus II. (Carga horária: 20h). , PI Componentes, PI COMPONENTES, Brasil.
+2005 - 2005
+Desenvolvimento de Aplicações com NIOS II. (Carga horária: 20h). , PI Componentes, PI COMPONENTES, Brasil.
+2004 - 2005
+Extensão universitária em Basic English Course. (Carga horária: 80h). , Anglo Brazilian Institute LTDA, ANGLO, Brasil.
+2003 - 2003
+Verificação Funcional utilizando SystemC. (Carga horária: 40h). , Universidade Federal de Campina Grande, UFCG, Brasil.
+IDIOMAS
+Inglês
+Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Razoavelmente.
+Espanhol
+Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Francês
+Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
+ÁREAS DE ATUAÇÃO
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Hardware.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquiteturas Dedicadas.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Software Básico.
+PARTICIPAÇÃO EM EVENTOS
+SBCCI - Chip on the Dunes ( 22nd Symposium on Integrated Circuits and Systems Design ).Functional verification of power gate design in SystemC RTL. 2009. (Simpósio).
+SBCCI - CHIP IN RIO (20th Symposium on Systems and Circuits Design).Functional Verification of an MPEG-4 Decoder Design Using a Random Constrained Movie Generator. 2007. (Simpósio).
+Meeting de Tecnologia (OS GIGANTES DA T.I. SE ENCONTRAM EM JOÃO PESSOA ) ? João Pessoa, PB. 2006. (Congresso).
+SBCCI - CHIP ON THE ISLAND ( 18th Symposium on Integrated Circuits and Systems Design, 20th Symposium on Microelectronics Technology end Devices, 5th Student Forum for Microelectronics).Brazil-IP. 2005. (Simpósio).
+SBCCI - CHIP ON THE REEFS ( 17th Symposium on Integrated Circuits and Systems Design, 19th Symposium on Microelectronics Technology end Devices, 4th Student Forum for Microelectronics).Brazil-IP. 2004. (Simpósio).
+PARTICIPAÇÃO EM BANCAS
+Aluno: Pablo Andrey Arruda de Araujo
+DUARTE, A. N.; BRITO, ALISSON V.;SILVEIRA, G. S.. Análise da mobilidade urbana através de dados da rede de telefonia móvel celular. 2014. Dissertação (Mestrado em INFORMÁTICA) - Universidade Federal da Paraíba.
+Aluno: Rafael Gonçalves Dias
+SILVEIRA, G. S.; MAIA, M.; SILVA, W.. Uma Visão Geral sobre Modelos de Banco de Dados. 2010. Trabalho de Conclusão de Curso (Graduação em Licenciatura em Computação) - Universidade Estadual da Paraíba.
+Aluno: Paulo C
+Saulo;SILVEIRA, G. S.; LUIZ, A.. de L. Gouveia.Relatório sobre o gerenciamento de Redes do INSS pela DATAPREV. 2008. Trabalho de Conclusão de Curso (Graduação em Ciências da Computação) - Centro Universitário de João Pessoa.
+SILVEIRA, G. S.; JUNIOR, F. D.; ALVES, C.. Processo Seletivo Simplificado para Professor Substituto - Edital 29/2013 - IFPB. 2014. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+SILVEIRA, G. S.; SOUSA, M. P.. Processo Seletivo Simplificado para Professor Substituto - Edital 334/2013 - IFPB. 2014. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+SILVEIRA, G. S.; SOUSA, M. P.. Processo Seletivo Simplificado para Professor Substituto - Edital 334/2013 - IFPB. 2014. Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.
+SILVEIRA, G. S.. Processo Seletivo Simplificado para Professor Substituto - Edital 57/2013 - IFPB. 2013.
+COMISSÃO JULGADORA DAS BANCAS
+Elmar Uwe Kurt Melcher
+MELCHER, E. U. K.. GERADOR DE VÍDEO PSEUDO-ALEATÓRIO SINTÉTICO NA VERIFICAÇÃO FUNCIONAL DE CIRCUITOS DECODIFICADORES DE VÍDEO MPEG-4. 2008. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Leonardo Vidal Batista
+BATISTA, L. V.MELCHER, Elmar Uwe Kurt; FECHINE, Joseana Macedo. Gerador de Vídeo Pseudo-Aleatório Sintético na Verificação Funcional de Circuitos Decodificadores de Vídeo MPEG-4. 2008. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.
+Joseana Macêdo Fechine Régis de Araújo
+MELCHER, Elmar Uwe Kurt;FECHINE, J. M.; BATISTA, L. V.. Gerador de Vídeo Pseudo-aleatório Sintético na Verificação Funcional de Circuitos Decodificadores de Vídeo MPEG-4. 2008. Dissertação (Mestrado em Pós Graduação em Computação) - Universidade Federal de Campina Grande.
+Joseana Macêdo Fechine Régis de Araújo
+MELCHER, E. U. K.; LIMA, A. M. N.; BARROS, Edna Natividade da Silva; CARVALHO, João Marques de; ARAÚJO, Guido Costa Souza de;FECHINE, J. M.. Uma Abordagem para Verificação Funcional no Nível de Sistema de Circuitos Digitais que Empregam a Técnica Power Gating. 2012. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande.
+Joseana Macêdo Fechine Régis de Araújo
+LIMA, A. M. N.; CARVALHO, João Marques de; BARROS, Edna Natividade da Silva;FECHINE, J. M.; MELCHER, Elmar Uwe Kurt. Verificação Funcional em Nível de Sistema do Desligamento de Submódulos em Circuitos Digitais. 2011. Exame de qualificação (Doutorando em Pós Graduação Em Engenharia Elétrica) - Universidade Federal de Campina Grande.
+FOI ORIENTADO POR
+Elmar Uwe Kurt Melcher
+Gerador de Vídeo Randômico Sintético para Verificação Funcional de Circuitos Decodificadores de Vídeo MPEG-4; 2008; Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande,; Orientador: Elmar Uwe Kurt Melcher;
+Elmar Uwe Kurt Melcher
+Uma Abordagem para dar Suporte à Verificação Funcional no Nível de Sistema para Circuitos Digitais que Empregam a Técnica Power Gating; 2012; Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior; Orientador: Elmar Uwe Kurt Melcher;
+Elmar Uwe Kurt Melcher
+Aprimoramento de um gerador de vídeos sinteticos randômicos para formato MPEG4 - Simple Profile Level 1; 2006; Trabalho de Conclusão de Curso; (Graduação em Ciência da Computação) - Universidade Federal de Campina Grande; Orientador: Elmar Uwe Kurt Melcher;
+PRODUÇÕES BIBLIOGRÁFICAS
+SILVEIRA, GEORGE SOBRAL ; BRITO, ALISSON V. ; OLIVEIRA, HELDER F. DE A. ; MELCHER, ELMAR U. K. . Open SystemC Simulator with Support for Power Gating Design. International Journal of Reconfigurable Computing (Print) , v. 2012, p. 1-8, 2012.
+Brito, A. V ; SILVEIRA, G. S. ; MELCHER, E. K. U. . A Methodology for Modelling and Simulation of Dynamic and Partially Reconfigurable Systems. In: Alisson V. Brito. (Org.). Dynamic Modelling. 1ed.Vukovar, Croatia: Intech, 2010, v. 1, p. 29-48.
+SILVEIRA, GEORGE SOBRAL ; BRITO, ALISSON VASCONCELOS ; MELCHER, ELMAR U. K. . Functional verification of power gate design in SystemC RTL. In: the 22nd Annual Symposium, 2009, Natal. Proceedings of the 22nd Annual Symposium on Integrated Circuits and System Design Chip on the Dunes - SBCCI '09. New York: ACM Press. p. 1-5.
+SILVEIRA, G. S. ; Rocha K. R. G. ; MELCHER, E. K. U. . A Random Constrained Movie Versus a Random Unconstrained Movie Applied to the Functional Verification of an MPEG4 Decoder Design. In: International Conference on Signal Processing and Multimedia Applications, 2008, Porto, Portugal. SIGMAP - International Conference on Signal Processing and Multimedia Applications, 2008. p. 271-278.
+SILVEIRA, GEORGE SOBRAL ; DA SILVA, KARINA R. G. ; MELCHER, ELMAR U. K. . Functional verification of an MPEG-4 decoder design using a random constrained movie generator. In: the 20th annual conference, 2007, Copacabana. Proceedings of the 20th annual conference on Integrated circuits and systems design - SBCCI '07. New York: ACM Press. p. 360-364.
+SILVEIRA, G. S. ; Rocha K. R. G. ; MELCHER, E. K. U. . Functional verification of an MPEG-4 decoder design using a random constrained movie generator. 2007. (Apresentação de Trabalho/Congresso).
+OUTRAS PRODUÇÕES
+SILVEIRA, G. S. . Gerador de vídeos sintéticos randomicos no formato MPEG-4 Simple Profile Level 1. 2006.
+Projetos de pesquisa
+2017 - Atual
+IFCardio, Descrição: Desenvolvimento de um protótipo de equipamento para realização de múltiplos exames cardiológicos.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (4) . , Integrantes: George Sobral Silveira - Coordenador / Filipe Cazuza Cavalcanti - Integrante / Eric Guimarães Barbosa - Integrante / Alberto da Silva Felix - Integrante / Leandro de Souza Albuquerque - Integrante., Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Auxílio financeiro.
+2003 - 2012
+Brazil-IP, Consórcio para a Formação de Talentos Humanos na Concepção e Projeto de Sistemas Digitais e Propriedade Intelectual (IPs) - Brazil-IP, Descrição: A missão da rede, denominada The Brazil IP Network , pode ser dividida em duas partes. A curto prazo, ela pretende aumentar a capacidade do País de organizar atividades de projeto de IPs, expondo instituiçõe de P&D a práticas internacionais de projeto (VSI/SRS) e avaliação. A longo prazo, o objetivo é agilizar a formação de massa crítica em projeto capaz de alavancar startups ( Design Houses ) no País. A implementação da rede é fundamentada em três pilares: um centro de serviços, competições avaliadas pela indústria e um portal (http://www.brazilip.org). , Situação: Concluído; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (6) / Doutorado: (1) . , Integrantes: George Sobral Silveira - Integrante / Elmar K. U. Melcher - Coordenador / Karina R. G. Rocha - Integrante / Isaac Maia - Integrante / Henrique Nascimento Cunha - Integrante / Wilson Rosas de Vasconcelos Neto - Integrante / Marcos Eduardo do Prado Villarroel Zurita - Integrante / Joseana Macêdo Fechine Régis de Araújo - Integrante.
+Histórico profissional
+ENDEREÇO PROFISSIONAL
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB, Campus Campina Grande. , Av. Tranquilino C. Lemos, 671, Dinamérica, 58107000 - Campina Grande, PB - Brasil, Telefone: (0083) 21026200, URL da Homepage:
+EXPERIÊNCIA PROFISSIONAL
+2011 - Atual
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - Ifpb
+Vínculo: Servidor Público, Enquadramento Funcional: Professor, Carga horária: 40, Regime: Dedicação exclusiva.
+Atividades
+11/2015
+Conselhos, Comissões e Consultoria, Campus Campina Grande.,Cargo ou função, Membro do NDE do Curso de Bacharelado em Engenharia de Computação.
+11/2015
+Conselhos, Comissões e Consultoria, Campus Campina Grande.,Cargo ou função, Membro do Colegiado do Curso de Bacharelado em Engenharia de Computação.
+05/2011
+Ensino, Engenharia de Computação, Nível: Graduação,Disciplinas ministradas, Cabeamento Estruturado, Informática Básica, Instalação e Manutenção de Microcomputadores, Redes de Computadores, Sistemas Digitais, Projeto de Sistemas Digitais, Verificação Funcional de Sistemas Digitais
+11/2015 - 03/2019
+Direção e administração, Campus Campina Grande.,Cargo ou função, Coordenador do Curso de Bacharelado em Engenharia de Computação..
+10/2013 - 03/2019
+Conselhos, Comissões e Consultoria, Campus Campina Grande.,Cargo ou função, Presidente da comissão para elaboração do PPC do curso de Bacharelado em Engenharia de Computação.
+04/2013 - 11/2015
+Conselhos, Comissões e Consultoria, Campus Campina Grande.,Cargo ou função, Membro do NDE do CST em Telemática.
+08/2012 - 11/2015
+Direção e administração, Campus Campina Grande.,Cargo ou função, Coordenador de Estágios.
+2009 - 2010
+Universidade Estadual da Paraíba
+Vínculo: Professor vistante, Enquadramento Funcional: Professor Substituto, Carga horária: 24
+Atividades
+02/2009 - 12/2010
+Ensino, Licenciatura Plena em Matemática, Nível: Graduação,Disciplinas ministradas, Pesquisa Aplicada, Introdução à Informática, Linguagem de Programação, Redes de Computadores
+2006 - 2008
+Laboratory for Integrated Circuits and Systems
+Vínculo: Colaborador, Enquadramento Funcional: Engenheiro de Verificação Funcional, Carga horária: 40
+Atividades
+11/2006 - 08/2008
+Pesquisa e desenvolvimento, Laboratory for Integrated Circuits and Systems.,Linhas de pesquisa
+01/2008 - 06/2008
+Treinamentos ministrados , Laboratory for Integrated Circuits and Systems.,Treinamentos ministrados, Instrutor dos cursos ( Floorplainning, Physical Synthesis, Automatic Test Pattern Generation, Design for Testability and ASIC Testability )
+2008 - 2008
+Centro Universitário de João Pessoa
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor - Horista, Carga horária: 16
+Atividades
+02/2008 - 07/2008
+Ensino, Ciências da Computação, Nível: Graduação,Disciplinas ministradas, Arquiteturas de Computadores, Sistemas Digitais
+2004 - 2006
+Brazil-IP
+Vínculo: Colaborador, Enquadramento Funcional: Desenvolvedor de IP-Cores, Carga horária: 20
+Atividades
+02/2004 - 10/2006
+Pesquisa e desenvolvimento, Fenix.,Linhas de pesquisa
+2005 - 2005
+Universidade Federal de Campina Grande
+Vínculo: Colaborador, Enquadramento Funcional: Monitor, Carga horária: 12
+Atividades
+06/2005 - 12/2005
+Outras atividades técnico-científicas , Departamento de Sistemas e Computação, Departamento de Sistemas e Computação.,Atividade realizada, Monitor voluntário da disciplina Laboratório de Organização e Arquitetura de Computadores..
+1998 - 2003
+Unimed Campina Grande Coop. Trab. Med. LTDA
+Vínculo: Empregaticio, Enquadramento Funcional: Técnico de manutenção eletrônica, Carga horária: 40, Regime: Dedicação exclusiva.
+Atividades
+11/1998 - 04/2003
+Serviços técnicos especializados , Unimed Campina Grande Coop. Trabalho Medico LTDA.,Serviço realizado, Desenvolvimento de sistemas eletrônicos para monitoramento da rede elétrica e lógica dos computadores. Implatação, manutenção e suporte do sistema de autorização de procedimento médicos On-Line. Gerenciamento e suporte das estações clientes.
