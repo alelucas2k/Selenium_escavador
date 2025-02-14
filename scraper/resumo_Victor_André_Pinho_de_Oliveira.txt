@@ -1,7 +1,0 @@
-O professor Victor André Pinho de Oliveira tem sua pesquisa focada principalmente em:
-
-* **Redes Ópticas:**  Seu mestrado e trabalhos iniciais de pesquisa envolveram algoritmos de roteamento, simulação distribuída e análise de desempenho em redes ópticas, com ênfase na variação de ganho de amplificadores EDFA.
-
-* **Jogos Sérios e Gamificação:** Seus projetos de pesquisa mais recentes concentram-se no desenvolvimento e aplicação de jogos sérios para o ensino de programação, física e conceitos de terminal Linux, além de explorar o uso de ferramentas gamificadas na educação.  Ele também pesquisa jogos sérios na área da saúde.
-
-* **Inteligência Artificial em Jogos:**  Publicou trabalhos sobre técnicas de IA aplicadas a personagens não jogáveis (NPCs) em jogos digitais.
