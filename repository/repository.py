@@ -6,8 +6,8 @@ class Repository:
     def __init__(self):
         # Obtém a conexão usando o Singleton
         self.connection = PostgreSQLConnectionSingleton(database="postgres", user="postgres",
-                                                        password="4667", host="localhost",
-                                                        port="5432").get_connection()
+                                                        password="0000", host="localhost",
+                                                        port="0000").get_connection()
 
     def close_connection(self):
         if self.connection:
