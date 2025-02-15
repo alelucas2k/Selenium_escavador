@@ -28,6 +28,47 @@ def get_valid_number(prompt, min_val=None, max_val=None):
             f"Por favor, digite um número válido{' entre ' + str(min_val) + ' e ' + str(max_val) if min_val is not None and max_val is not None else ''}")
 
 
+# def visualizar_professores():
+#     from facade.facade import Facade
+#
+#     facade = Facade()
+#     opcao = get_valid_number(
+#         "\n\nComo você deseja visualizar os professores?\n\n"
+#         "1. Todos os professores\n"
+#         "2. Por área de conhecimento\n"
+#         "3. Por projeto\n"
+#         "Digite o número da opção: ", 1, 3
+#     )
+#
+#     professores = facade.exibir_professores()
+#
+#     opcao = str(opcao)
+#
+#     if opcao == '1':
+#         for professor in professores:
+#             exibir_detalhes_professor(professor)
+#     elif opcao == '2':
+#         areas = facade.exibir_areas()
+#         exibir_opcoes(areas, "Escolha a área de conhecimento")
+#         area_index = obter_opcao_valida(areas)
+#         selected_area = areas[int(area_index) - 1][1]
+#
+#         for professor in professores:
+#             if selected_area in professor[5]:
+#                 exibir_detalhes_professor(professor)
+#     elif opcao == '3':
+#         projetos = facade.exibir_projetos()
+#         exibir_opcoes(projetos, "Digite o índice do projeto desejado")
+#         proj_index = obter_opcao_valida(projetos)
+#         selected_projeto = projetos[int(proj_index) - 1][1]
+#
+#         for professor in professores:
+#             if selected_projeto in professor[6]:
+#                 exibir_detalhes_professor(professor)
+#     else:
+#         print("Opção inválida. Tente novamente.")
+
+
 def visualizar_professores():
     from facade.facade import Facade
 
@@ -54,7 +95,7 @@ def visualizar_professores():
         selected_area = areas[int(area_index) - 1][1]
 
         for professor in professores:
-            if selected_area in professor[5]:
+            if selected_area in professor[3]:
                 exibir_detalhes_professor(professor)
     elif opcao == '3':
         projetos = facade.exibir_projetos()
@@ -63,10 +104,11 @@ def visualizar_professores():
         selected_projeto = projetos[int(proj_index) - 1][1]
 
         for professor in professores:
-            if selected_projeto in professor[6]:
+            if selected_projeto in professor[4]:
                 exibir_detalhes_professor(professor)
     else:
         print("Opção inválida. Tente novamente.")
+
 
 
 def exibir_opcoes(opcoes, mensagem):

@@ -10,7 +10,8 @@ import time
 import subprocess
 from selenium.webdriver.common.by import By
 from observer import Subject, StatusLogger, PostgresSummaryUpdater
-from gemini_summarizer import resumir_curriculo_gemini
+#from gemini_summarizer import resumir_curriculo_gemini
+from gemini_summarizer import resumir_e_extrair_info
 
 
 class Handler:
@@ -73,6 +74,31 @@ class ClickProfileHandler(Handler):
             context['subject'].notificar(context['professor'], "não encontrado")
 
 
+# class SaveResumeHandler(Handler):
+#     def handle(self, context):
+#         try:
+#             driver = context['driver']
+#             professor = context['professor']
+#             texto = driver.find_element(By.XPATH, "/html/body/main/div/section")
+#             div_text = texto.text
+#             nome_arquivo = f"curriculo_{professor.replace(' ', '_')}.txt"
+#
+#             with open(nome_arquivo, "w", encoding="utf-8") as file:
+#                 file.write(div_text)
+#             print(f"Currículo de {professor} salvo com sucesso em '{nome_arquivo}'!")
+#
+#             # Gera o resumo utilizando a API Gemini
+#             resumo = resumir_curriculo_gemini(nome_arquivo)
+#             if resumo:
+#                 print("Resumo gerado")
+#                 context['subject'].notificar(professor, "resumo gerado", resumo)
+#             else:
+#                 context['subject'].notificar(professor, "erro ao gerar resumo")
+#         except Exception as e:
+#             print(f"Erro ao salvar currículo: {e}")
+#             context['subject'].notificar(professor, "erro")
+
+
 class SaveResumeHandler(Handler):
     def handle(self, context):
         try:
@@ -86,11 +112,11 @@ class SaveResumeHandler(Handler):
                 file.write(div_text)
             print(f"Currículo de {professor} salvo com sucesso em '{nome_arquivo}'!")
 
-            # Gera o resumo utilizando a API Gemini
-            resumo = resumir_curriculo_gemini(nome_arquivo)
-            if resumo:
-                print("Resumo gerado")
-                context['subject'].notificar(professor, "resumo gerado", resumo)
+            # Chama a função passando o nome do professor
+            info = resumir_e_extrair_info(nome_arquivo, professor)
+            if info:
+                print("Resumo e informações adicionais gerados")
+                context['subject'].notificar(professor, "resumo gerado", info)
             else:
                 context['subject'].notificar(professor, "erro ao gerar resumo")
         except Exception as e:

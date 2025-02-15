@@ -15,7 +15,8 @@ class PostgreSQLConnectionSingleton(metaclass=SingletonMeta):
     def __init__(self, database, user, password, host, port):
         self.connection_pool = None
         try:
-            self.connection_pool = psycopg2.pool.SimpleConnectionPool(1, 20, user=user,
+            self.connection_pool = psycopg2.pool.SimpleConnectionPool(1, 20,
+                                                                      user=user,
                                                                       password=password,
                                                                       host=host,
                                                                       port=port,
@@ -34,14 +35,14 @@ class PostgreSQLConnectionSingleton(metaclass=SingletonMeta):
     def close_all_connections(self):
         self.connection_pool.closeall()
 
-
-
 class Repository:
     def __init__(self):
         # Obtém a conexão usando o Singleton
-        self.connection = PostgreSQLConnectionSingleton(database="postgres", user="postgres",
-                                                        password="0000", host="localhost",
-                                                        port="0000").get_connection()
+        self.connection = PostgreSQLConnectionSingleton(database="postgres",
+                                                        user="postgres",
+                                                        password="4667",
+                                                        host="localhost",
+                                                        port="5432").get_connection()
 
     def close_connection(self):
         if self.connection:
@@ -90,15 +91,7 @@ class PerfilRepository(Repository):
         query = "DELETE FROM perfil WHERE id = %s;"
         self.execute_query(query, (perfil_id,))
 
-
-
 class ProfessorRepository(PerfilRepository):
-
-    # def obtem_by_nome(self, professor):
-    #     query = "SELECT * FROM perfil WHERE nome = %s;"
-    #     result = self.fetch_query(query, (professor,))
-    #     print(result[0][0])
-    #     return result[0][0] if result else None
 
     def atualizar_resumo_por_nome(self, nome_professor, novo_resumo):
         query_update = """
@@ -144,72 +137,48 @@ class ProfessorRepository(PerfilRepository):
             WHERE perfil.nome = %s;
         """
         result = self.fetch_query(query, (nome_professor,))
-        # Se encontrar, retorna o primeiro ID; caso contrário, retorna None
         return result[0][0] if result else None
 
     def add_professor(self, professor, id_perfil):
-        # Adiciona os dados específicos do professor
         query = "INSERT INTO professor (id_perfil, resumo) VALUES (%s, %s);"
         params = (id_perfil, professor.resumo)
         self.execute_query(query, params)
         professor.id = self.fetch_query("SELECT LASTVAL();")[0][0]
-
-        # Adiciona as áreas de interesse do professor
         for area in professor._areas_interesse:
             self.add_grande_area_to_professor(professor.id, area)
-
-        # Adiciona participação em projetos
         for projeto_id in professor._projetos:
             self.add_projeto_to_professor(professor.id, projeto_id)
-
         return professor.id
 
     def get_professor(self, professor_id):
-        # Obtém os dados do perfil
         perfil_data = self.get_perfil(professor_id)
-        # Obtém os dados específicos do professor
         query = "SELECT numero_sala FROM professor WHERE id = %s;"
         professor_data = self.fetch_query(query, (professor_id,))
-
-        # Obtém os interesses em grandes áreas
         query = ("SELECT ga.area FROM professor_grande_area pga "
                  "JOIN grande_area ga ON pga.grande_area_id = ga.id "
                  "WHERE pga.professor_id = %s;")
         grande_areas = [row[0] for row in self.fetch_query(query, (professor_id,))]
-
-        # Obtém os projetos orientados
         query = "SELECT projeto_id FROM professor_projeto WHERE professor_id = %s;"
         projetos_orientados = [row[0] for row in self.fetch_query(query, (professor_id,))]
-
         return perfil_data + professor_data + grande_areas + projetos_orientados
 
     def update_professor(self, professor):
-        # Atualiza os dados do perfil
         self.update_perfil(professor)
-        # Atualiza os dados específicos do professor
         query = "UPDATE professor SET numero_sala = %s WHERE id = %s;"
         params = (professor.numeroSala, professor.id)
         self.execute_query(query, params)
-
-        # Atualiza interesses em grandes áreas
         self.clear_grande_areas_from_professor(professor.id)
         for grande_area_id in professor.grande_areas:
             self.add_grande_area_to_professor(professor.id, grande_area_id)
-
-        # Atualiza orientação de projetos
         self.clear_projetos_from_professor(professor.id)
         for projeto_id in professor.projetos_orientados:
             self.add_projeto_to_professor(professor.id, projeto_id)
 
     def delete_professor(self, professor_id):
-        # Deleta os interesses em grandes áreas
         self.clear_grande_areas_from_professor(professor_id)
-        # Deleta orientação de projetos
         self.clear_projetos_from_professor(professor_id)
-        # Deleta os dados específicos do professor
         query = "DELETE FROM professor WHERE id = %s;"
         self.execute_query(query, (professor_id,))
-        # Deleta os dados do perfil
         self.delete_perfil(professor_id)
 
     def add_grande_area_to_professor(self, professor_id, grande_area_id):
@@ -248,7 +217,6 @@ class ProfessorRepository(PerfilRepository):
                  "JOIN perfil p ON pr.id_perfil = p.id;")
         return self.fetch_query(query)
 
-    # talvez precise corrigir o pr.id ver dps
     def get_professores_by_grande_area(self, grande_area_id):
         query = ("SELECT p.id, p.nome, p.curso, p.email_institucional, pr.numero_sala, " 
                  "ARRAY(SELECT ga.area FROM professor_grande_area pga " 
@@ -261,6 +229,65 @@ class ProfessorRepository(PerfilRepository):
                  "JOIN perfil p ON pr.id_perfil = p.id " 
                  "JOIN professor_grande_area pga ON pr.id_perfil = pga.professor_id " 
                  "WHERE pga.grande_area_id = %s;")
-
         return self.fetch_query(query, (grande_area_id,))
 
+    # ====================== Métodos Adicionais para Atualizações Usando o Nome ======================
+
+    def get_grande_area_id(self, area_text):
+        """
+        Obtém o ID de uma grande área a partir do nome. Se não existir, cria um novo registro.
+        """
+        query = "SELECT id FROM grande_area WHERE area = %s;"
+        result = self.fetch_query(query, (area_text,))
+        if result:
+            return result[0][0]
+        else:
+            query_insert = "INSERT INTO grande_area (area) VALUES (%s) RETURNING id;"
+            self.execute_query(query_insert, (area_text,))
+            new_id = self.fetch_query("SELECT LASTVAL();")[0][0]
+            return new_id
+
+    def get_projeto_id(self, projeto_title):
+        """
+        Obtém o ID de um projeto a partir do título. Se não existir, cria um novo projeto com dados mínimos.
+        """
+        query = "SELECT id FROM projeto WHERE nome = %s;"
+        result = self.fetch_query(query, (projeto_title,))
+        if result:
+            return result[0][0]
+        else:
+            # Cria um novo projeto com data_inicio como a data atual e placeholders para outros campos.
+            query_insert = "INSERT INTO projeto (nome, data_inicio, eh_pesquisa, eh_extensao) VALUES (%s, CURRENT_DATE, false, false) RETURNING id;"
+            self.execute_query(query_insert, (projeto_title,))
+            new_id = self.fetch_query("SELECT LASTVAL();")[0][0]
+            return new_id
+
+    def clear_grande_areas_from_professor_by_nome(self, nome_professor):
+        professor_id = self.obtem_id_professor_por_nome(nome_professor)
+        if professor_id:
+            self.clear_grande_areas_from_professor(professor_id)
+        else:
+            print(f"Professor '{nome_professor}' não encontrado para limpar grandes áreas.")
+
+    def add_grande_area_to_professor_por_nome(self, nome_professor, area_text):
+        professor_id = self.obtem_id_professor_por_nome(nome_professor)
+        if professor_id:
+            area_id = self.get_grande_area_id(area_text)
+            self.add_grande_area_to_professor(professor_id, area_id)
+        else:
+            print(f"Professor '{nome_professor}' não encontrado para adicionar grande área.")
+
+    def clear_projetos_from_professor_by_nome(self, nome_professor):
+        professor_id = self.obtem_id_professor_por_nome(nome_professor)
+        if professor_id:
+            self.clear_projetos_from_professor(professor_id)
+        else:
+            print(f"Professor '{nome_professor}' não encontrado para limpar projetos.")
+
+    def add_projeto_to_professor_por_nome(self, nome_professor, projeto_title):
+        professor_id = self.obtem_id_professor_por_nome(nome_professor)
+        if professor_id:
+            projeto_id = self.get_projeto_id(projeto_title)
+            self.add_projeto_to_professor(professor_id, projeto_id)
+        else:
+            print(f"Professor '{nome_professor}' não encontrado para adicionar projeto.")
